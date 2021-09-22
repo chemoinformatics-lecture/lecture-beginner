@@ -13,5 +13,6 @@ conda install -c mcs07 pubchempy
 
 #以下は任意
 ```
-conda install -c damianavila82 rise
+conda install -c conda-forge rise
+conda install nbconvert
 ```
