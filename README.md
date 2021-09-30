@@ -9,7 +9,10 @@ conda install -c anaconda pandas
 conda install scikit-learn
 conda install -c conda-forge rdkit
 conda install -c mcs07 pubchempy
+conda install -c conda-forge matplotlib
+conda install -c intel scikit-learn
 ```
+scikit-learnはM1 mac用が別途あります。
 
 #以下は任意
 ```
