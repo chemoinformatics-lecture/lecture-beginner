@@ -6,7 +6,6 @@
 ```
 conda install jupyter
 conda install -c anaconda pandas
-conda install scikit-learn
 conda install -c conda-forge rdkit
 conda install -c mcs07 pubchempy
 conda install -c conda-forge matplotlib
