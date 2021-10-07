@@ -14,9 +14,11 @@
 
 # どのように
 
-環境作成の便利なツールを使い、効率的にコードを書くツールを使って、書いたコードを管理する共有する便利なツールも使う。
+- 環境作成の便利なツールを使い、効率的にコードを書くツールを使って、書いたコードを管理する共有する便利なツールも使う。
+- プログラミング言語はpythonを使う。pythonは初学者にも学びやすい。 また、ケモインフォマティクスや機械学習の分野で使われることが多く、ライブラリーが豊富にある。
 
 # 何をするか
+pythonを学んだり効率的にコードを書く上で便利な３つの
 
 1, anacondaをインストールする。<br>
 windows, mac, linuxのどれでもインストールできます。自分の使っているものに合わせてインストールしてください。
@@ -30,33 +32,48 @@ https://www.jetbrains.com/ja-jp/pycharm/download
 
 3, git hubにアカウントを作成する。<br>
 webサイトにアクセスして、サインアップしてください。
-
-pycharmとgithubを連携する。
-
+pycharmとgithubを連携する。（このとき、パソコンにgitがインストールされていない場合にはインストールされる）
 
 # condaで環境を作成していきます。
 
 pythonは、3.8で作ってください。
 
 ```
+conda update -n base -c defaults conda
 conda install jupyter
 conda install -c anaconda pandas
-conda install scikit-learn
-conda install -c conda-forge rdkit
 conda install -c mcs07 pubchempy
 conda install -c conda-forge matplotlib
+conda install -c conda-forge rdkit
 conda install -c intel scikit-learn
 ```
 
 scikit-learnはM1 mac用が別途あります。
 
 #以下は任意
-
 発表資料を作成する際に使用しています。
 ```
 conda install -c conda-forge rise
 conda install nbconvert
 ```
+
+#注意点
+### 作成者はwindowsとmacの両方を使用していますが、主にmacを使うことが多いです。
+サーバー（重たい計算とかを行わせたり、ホームページを公開したりする）などではCentOSやUbuntsなどのLinuxを用います。
+これらを外部から操作するときには、コマンドだけで操作するときもあるのでコマンド操作を覚えたほうがよいと思って
+macを使ってコマンド操作についても動画などに入れていました。
+
+windowsでも別途コマンド操作方法を別途覚えればできるのですが、Linuxのコマンド操作よりも使用用途は少ないかなと思います。 windowsのコマンド操作については、必要最低限以外に講義の中で紹介したりサポートすることは無いと思います。
+これらの部分は興味がないようでしたら今のところ勉強しなくても大丈夫だと思います（プログラミングを覚えるだけでも大変なので）。
+
+### python自体は、どのプラットフォーム(windows, mac, linux)でも同じように操作できます。
+プラットフォーム上で行うコマンドの操作などは異なります。macはコマンド操作の部分などで、Linuxを使うときの操作と似ています。
+windowsでどうやって対応するかは、以下などが参考になると思います。
+
+Linuxコマンド：Windowsコマンド対応表<br>
+https://qiita.com/asmin/items/d53e71ed98a377ca7823
+
+LinuxコマンドとWindowsコマンドの違いなどで検索してください。
 
 # 他の方法の紹介
 以上の選定基準としては、よく使われていたり、初心者にも優しいという点で選んでいます。
