@@ -1,3 +1,10 @@
+# なぜ
+
+
+# どのように
+
+
+# 何をするか
 
 - SA_Score <br>
 https://github.com/rdkit/rdkit/blob/master/Contrib/SA_Score/sascorer.py
