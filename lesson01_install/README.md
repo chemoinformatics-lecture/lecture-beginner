@@ -21,11 +21,18 @@
 1, anacondaをインストールする。<br>
 windows, mac, linuxのどれでもインストールできます。自分の使っているものに合わせてインストールしてください。
 
+https://www.anaconda.com/products/individual
+
 2, pycharmのcommunity版をインストールする。<br>
 windows, mac, linuxのどれでもインストールできます。自分の使っているものに合わせてインストールしてください。
 
+https://www.jetbrains.com/ja-jp/pycharm/download
+
 3, git hubにアカウントを作成する。<br>
 webサイトにアクセスして、サインアップしてください。
+
+pycharmとgithubを連携する。
+
 
 # condaで環境を作成していきます。
 
