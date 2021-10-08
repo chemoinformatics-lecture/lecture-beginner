@@ -1,0 +1,372 @@
+id,smiles,metabolite_class,metabolite_subclass,name,molecular_weight,formula,cas_number,created_at,updated_at
+8,OC[C@H]1O[C@@H](OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC(O)=C(O)C=C2)[C@H](O)[C@@H](O)[C@H]1O,Flavonoids,Anthocyanins,Cyanidin 3-O-galactoside,449.385,C21H21O11,"",2002-08-22 11:51:47 UTC,2015-05-10 23:28:36 UTC
+9,OC[C@H]1O[C@@H](OC2=CC3=C(C=C(O)C=C3O)[O+]=C2C2=CC(O)=C(O)C=C2)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Anthocyanins,Cyanidin 3-O-glucoside,449.385,C21H21O11,7084-24-4,2002-09-20 16:19:06 UTC,2015-05-10 23:28:36 UTC
+10,C[C@@H]1O[C@@H](OC[C@H]2O[C@@H](OC3=CC4=C(O)C=C(O)C=C4[O+]=C3C3=CC(O)=C(O)C=C3)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@H](O)[C@H]1O,Flavonoids,Anthocyanins,Cyanidin 3-O-rutinoside,595.526,C27H31O15,"",2002-09-20 16:19:39 UTC,2015-05-10 23:28:36 UTC
+11,OC[C@H]1O[C@@H](O[C@H]2[C@H](OC3=CC4=C(O)C=C(O)C=C4[O+]=C3C3=CC(O)=C(O)C=C3)O[C@H](CO)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Anthocyanins,Cyanidin 3-O-sophoroside,611.525,C27H31O16,"",2002-09-20 16:20:08 UTC,2015-05-10 23:28:36 UTC
+12,OC[C@@H]1O[C@H](OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC=C(O)C=C2)[C@@H](O)[C@H](O)[C@H]1O,Flavonoids,Anthocyanins,Pelargonidin 3-O-glucoside,433.385,C21H21O10,18466-51-8,2002-09-20 16:20:38 UTC,2015-05-10 23:28:36 UTC
+13,O[C@@H]1[C@@H](COC(=O)CC(O)=O)O[C@@H](OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC(O)=C(O)C=C2)[C@H](O)[C@H]1O,Flavonoids,Anthocyanins,Cyanidin 3-O-(6''-malonyl-glucoside),535.431,C24H23O14,"",2004-04-14 14:20:32 UTC,2015-05-10 23:28:36 UTC
+15,COC1=C(O)C=CC(=C1)C1=[O+]C2=CC(O)=CC(O)=C2C=C1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O,Flavonoids,Anthocyanins,Peonidin 3-O-glucoside,463.411,C22H23O11,6906-39-4,2004-11-19 00:00:00 UTC,2015-05-10 23:28:36 UTC
+16,[H][C@@]1(C)O[C@@]([H])(OC[C@@]2([H])O[C@@]([H])(OC3=CC4=C(C=C(O)C=C4O)[O+]=C3C3=CC(OC)=C(O)C=C3)[C@]([H])(O)[C@@]([H])(O)[C@]2([H])O)[C@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Anthocyanins,Peonidin 3-O-rutinoside,609.553,C28H33O15,"",2004-11-19 00:00:00 UTC,2015-05-10 23:28:36 UTC
+18,OC1=CC=C(C=C1)C1=[O+]C2=C(C=C1O)C(O)=CC(O)=C2,Flavonoids,Anthocyanins,Pelargonidin,271.245,C15H11O5,7690-51-9,2004-11-19 00:00:00 UTC,2015-05-10 23:28:36 UTC
+19,OC1=CC(O)=C2C=C(O)C(=[O+]C2=C1)C1=CC(O)=C(O)C=C1,Flavonoids,Anthocyanins,Cyanidin,287.244,C15H11O6,13306-05-3,2004-11-22 00:00:00 UTC,2015-05-10 23:28:37 UTC
+22,OC[C@H]1O[C@@H](O[C@H]2[C@H](OC3=CC4=C(O)C=C(O)C=C4[O+]=C3C3=CC=C(O)C=C3)O[C@H](CO)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Anthocyanins,Pelargonidin 3-O-sophoroside,595.526,C27H31O15,"",2005-01-24 00:00:00 UTC,2015-05-10 23:28:37 UTC
+23,[H][C@@]1(C)O[C@@]([H])(OC[C@@]2([H])O[C@@]([H])(OC3=CC4=C(C=C(O)C=C4O)[O+]=C3C3=CC=C(O)C=C3)[C@]([H])(O[C@]3([H])OC(CO)[C@@]([H])(O)[C@]([H])(O)[C@@]3([H])O)[C@@]([H])(O)[C@]2([H])O)[C@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Anthocyanins,Pelargonidin 3-O-glucosyl-rutinoside,741.667,C33H41O19,"",2005-01-24 00:00:00 UTC,2015-05-10 23:28:37 UTC
+27,OCC1OC(OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC(O)=C(O)C(O)=C2)C(O)C(O)C1O,Flavonoids,Anthocyanins,Delphinidin 3-O-galactoside,465.384,C21H21O12,"",2005-01-27 00:00:00 UTC,2015-05-10 23:28:37 UTC
+28,OC[C@H]1O[C@@H](OC2=CC3=C(C=C(O)C=C3O)[O+]=C2C2=CC(O)=C(O)C(O)=C2)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Anthocyanins,Delphinidin 3-O-glucoside,465.384,C21H21O12,"",2005-01-27 00:00:00 UTC,2015-05-10 23:28:37 UTC
+29,O[C@H]1CO[C@H](OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC(O)=C(O)C(O)=C2)[C@H](O)[C@H]1O,Flavonoids,Anthocyanins,Delphinidin 3-O-arabinoside,435.358,C20H19O11,"",2005-01-27 00:00:00 UTC,2015-05-10 23:28:37 UTC
+31,COC1=C(O)C(O)=CC(=C1)C1=[O+]C2=C(C=C1OC1OC(CO)C(O)C(O)C1O)C(O)=CC(O)=C2,Flavonoids,Anthocyanins,Petunidin 3-O-galactoside,479.411,C22H23O12,"",2005-01-27 00:00:00 UTC,2015-05-10 23:28:37 UTC
+32,[H][C@@]1(CO)O[C@]([H])(OC2=CC3=C(C=C(O)C=C3O)[O+]=C2C2=CC(O)=C(O)C=C2)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Anthocyanins,Cyanidin 3-O-arabinoside,419.359,C20H19O10,"",2002-08-22 11:51:47 UTC,2015-05-10 23:28:37 UTC
+33,COC1=C(O)C(O)=CC(=C1)C1=[O+]C2=C(C=C1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)C(O)=CC(O)=C2,Flavonoids,Anthocyanins,Petunidin 3-O-glucoside,479.411,C22H23O12,6988-81-4,2005-01-27 00:00:00 UTC,2015-05-10 23:28:37 UTC
+34,[H][C@]1(CO)O[C@@]([H])(OC2=CC3=C(C=C(O)C=C3O)[O+]=C2C2=CC(OC)=C(O)C=C2)[C@]([H])(O)[C@@]([H])(O)[C@@]1([H])O,Flavonoids,Anthocyanins,Peonidin 3-O-galactoside,463.411,C22H23O11,"",2004-11-19 00:00:00 UTC,2015-05-10 23:28:37 UTC
+35,[H][C@@]1(O)CO[C@]([H])(OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC(O)=C(O)C(OC)=C2)[C@]([H])(O)[C@]1([H])O,Flavonoids,Anthocyanins,Petunidin 3-O-arabinoside,449.385,C21H21O11,"",2005-01-27 00:00:00 UTC,2015-05-10 23:28:37 UTC
+36,COC1=CC(=CC(OC)=C1O)C1=[O+]C2=CC(O)=CC(O)=C2C=C1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O,Flavonoids,Anthocyanins,Malvidin 3-O-glucoside,493.437,C23H25O12,7228-78-6,2005-01-27 00:00:00 UTC,2015-05-10 23:28:37 UTC
+37,COC1=CC(=CC(OC)=C1O)C1=[O+]C2=CC(O)=CC(O)=C2C=C1O[C@H]1OC[C@H](O)[C@H](O)[C@H]1O,Flavonoids,Anthocyanins,Malvidin 3-O-arabinoside,463.411,C22H23O11,"",2005-01-27 00:00:00 UTC,2015-05-10 23:28:37 UTC
+49,C[C@@H]1O[C@@H](OC[C@H]2O[C@@H](OC3=CC4=C(O)C=C(O)C=C4[O+]=C3C3=CC(O)=C(O)C(O)=C3)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@H](O)[C@H]1O,Flavonoids,Anthocyanins,Delphinidin 3-O-rutinoside,611.525,C27H31O16,15674-58-5,2005-01-27 00:00:00 UTC,2015-05-10 23:28:37 UTC
+50,[Cl-].OC[C@H]1O[C@@H](OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC(O)=C(O)C=C2)[C@H](O[C@@H]2OC[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O)[C@@H]1O,Flavonoids,Anthocyanins,Cyanidin 3-O-sambubioside,616.952,C26H29ClO15,"",2005-01-28 11:35:21 UTC,2015-05-10 23:28:38 UTC
+51,O[C@@H]1[C@@H](COC(=O)CC(O)=O)O[C@@H](OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC=C(O)C=C2)[C@H](O)[C@H]1O,Flavonoids,Anthocyanins,Pelargonidin 3-O-(6''-malonyl-glucoside),519.432,C24H23O13,"",2005-01-28 16:02:36 UTC,2015-05-10 23:28:38 UTC
+53,[H][C@]1(CO)O[C@@]([H])(OC2=CC3=C(C=C(O)C=C3O)[O+]=C2C2=CC(O)=C(O)C=C2)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Anthocyanins,Cyanidin 3-O-xyloside,419.359,C20H19O10,"",2005-02-04 16:35:08 UTC,2015-05-10 23:28:38 UTC
+54,[Cl-].COC1=CC(=CC(OC)=C1O)C1=[O+]C2=CC(O)=CC(O)=C2C=C1O[C@@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O,Flavonoids,Anthocyanins,Malvidin 3-O-galactoside,528.89,C23H25ClO12,30113-37-2,2005-02-04 00:00:00 UTC,2015-05-10 23:28:38 UTC
+55,[H][C@@]1(O)CO[C@]([H])(OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC(O)=C(O)C(OC)=C2)[C@]([H])(O)[C@]1([H])O,Flavonoids,Anthocyanins,Peonidin 3-O-arabinoside,449.385,C21H21O11,"",2005-02-04 16:48:54 UTC,2015-05-10 23:28:38 UTC
+62,CC1OC(OCC2OC(OC3=CC4=C(O)C=C(O)C=C4[O+]=C3C3=CC=C(O)C(O)=C3)C(OC3OCC(O)C(O)C3O)C(O)C2O)C(O)C(O)C1O,Flavonoids,Anthocyanins,Cyanidin 3-O-xylosyl-rutinoside,727.641,C32H39O19,"",2005-04-26 15:16:30 UTC,2015-05-10 23:28:38 UTC
+69,OCC1OC(OC2=C3C=C(OC4OC(CO)C(O)C(O)C4OC4OCC(O)C(O)C4O)C(=[O+]C3=CC(O)=C2)C2=CC=C(O)C(O)=C2)C(O)C(O)C1O,Flavonoids,Anthocyanins,Cyanidin 3-O-sambubioside 5-O-glucoside,743.64,C32H39O20,"",2005-04-26 14:28:39 UTC,2015-05-10 23:28:38 UTC
+71,OC[C@H]1O[C@@H](OC2=CC(O)=CC3=[O+]C(=C(O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)C=C23)C2=CC(O)=C(O)C=C2)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Anthocyanins,"Cyanidin 3,5-O-diglucoside",611.525,C27H31O16,"",2005-04-26 00:00:00 UTC,2015-05-10 23:28:38 UTC
+104,OC1=CC(O)=C(C=C1)C(=O)\C=C\C1=CC(O)=C(O)C=C1,Flavonoids,Chalcones,Butein,272.253,C15H12O5,487-52-5,2007-05-21 00:00:00 UTC,2015-05-10 23:28:39 UTC
+108,OC1=CC=C(CCC(=O)C2=C(O)C=C(O)C=C2O)C=C1,Flavonoids,Dihydrochalcones,Phloretin,274.269,C15H14O5,60-82-2,2004-06-18 00:00:00 UTC,2015-05-10 23:28:40 UTC
+117,OC1[C@H](OC2=CC(O)=CC(O)=C2C1=O)C1=CC(O)=C(O)C=C1,Flavonoids,Dihydroflavonols,Dihydroquercetin,304.252,C15H12O7,480-18-2,2002-09-04 16:07:19 UTC,2015-05-10 23:28:40 UTC
+124,O[C@H]1CC2=C(O)C=C(O)C=C2O[C@@H]1C1=CC(O)=C(O)C=C1,Flavonoids,Flavanols,(+)-Catechin,290.268,C15H14O6,154-23-4,2002-08-20 16:23:07 UTC,2015-05-10 23:28:40 UTC
+125,O[C@@H]1CC2=C(O)C=C(O)C=C2O[C@@H]1C1=CC(O)=C(O)C=C1,Flavonoids,Flavanols,(-)-Epicatechin,290.268,C15H14O6,490-46-0,2002-08-20 16:48:58 UTC,2015-05-10 23:28:40 UTC
+127,O[C@@H]1CC2=C(O)C=C(O)C=C2O[C@@H]1C1=CC(O)=C(O)C(O)=C1,Flavonoids,Flavanols,(-)-Epigallocatechin,306.267,C15H14O7,970-74-1,2002-08-30 13:52:22 UTC,2015-05-10 23:28:40 UTC
+128,OC1=CC(O)=C2C[C@@H](OC(=O)C3=CC(O)=C(O)C(O)=C3)[C@H](OC2=C1)C1=CC=C(O)C(O)=C1,Flavonoids,Flavanols,(-)-Epicatechin 3-O-gallate,442.372,C22H18O10,1257-08-5,2002-08-30 13:53:31 UTC,2016-06-02 09:50:11 UTC
+129,OC1=CC(O)=C2C[C@@H](OC(=O)C3=CC(O)=C(O)C(O)=C3)[C@H](OC2=C1)C1=CC(O)=C(O)C(O)=C1,Flavonoids,Flavanols,(-)-Epigallocatechin 3-O-gallate,458.372,C22H18O11,989-51-5,2002-09-03 15:08:22 UTC,2015-05-10 23:28:40 UTC
+133,[H][C@@]1(OC2=CC(O)=CC(O)=C2C[C@H]1O)C1=CC(O)=C(O)C2=C(O)C(=O)C=C(C=C12)[C@H]1OC2=CC(O)=CC(O)=C2C[C@H]1O,Flavonoids,Flavanols,Theaflavin,564.494,C29H24O12,4670-05-7,2003-04-01 10:17:20 UTC,2015-05-10 23:28:41 UTC
+150,[H][C@]1(O)CC2=C(O)C=C(O)C(=C2O[C@]1([H])C1=CC=C(O)C(O)=C1)[C@@]1([H])C2=C(O)C=C(O)C=C2O[C@]([H])(C2=CC=C(O)C(O)=C2)[C@]1([H])O,Flavonoids,Flavanols,Procyanidin dimer B1,578.52,C30H26O12,20315-25-7,2002-08-29 13:57:03 UTC,2015-05-10 23:28:41 UTC
+151,[H][C@]1([C@@H](O)[C@H](OC2=CC(O)=CC(O)=C12)C1=CC(O)=C(O)C=C1)C1=C(O)C=C(O)C2=C1O[C@@H]([C@H](O)C2)C1=CC(O)=C(O)C=C1,Flavonoids,Flavanols,Procyanidin dimer B2,578.52,C30H26O12,29106-49-8,2002-08-21 14:48:07 UTC,2015-05-10 23:28:41 UTC
+152,[H][C@@]1([C@H](O)[C@H](OC2=CC(O)=CC(O)=C12)C1=CC(O)=C(O)C=C1)C1=C(O)C=C(O)C2=C1O[C@@H]([C@@H](O)C2)C1=CC(O)=C(O)C=C1,Flavonoids,Flavanols,Procyanidin dimer B3,578.52,C30H26O12,"",2002-08-20 15:58:13 UTC,2015-05-10 23:28:41 UTC
+153,[H][C@@]1([C@H](O)[C@H](OC2=CC(O)=CC(O)=C12)C1=CC(O)=C(O)C=C1)C1=C(O)C=C(O)C2=C1O[C@@H]([C@H](O)C2)C1=CC(O)=C(O)C=C1,Flavonoids,Flavanols,Procyanidin dimer B4,578.52,C30H26O12,"",2004-09-10 00:00:00 UTC,2015-05-10 23:28:41 UTC
+201,OC1=CC=C(C=C1)[C@@H]1CC(=O)C2=C(O)C=C(O)C=C2O1,Flavonoids,Flavanones,Naringenin,272.253,C15H12O5,480-41-1,2002-09-02 11:57:04 UTC,2015-05-10 23:28:43 UTC
+202,OC1=CC(O)=C2C(=O)C[C@H](OC2=C1)C1=CC(O)=C(O)C=C1,Flavonoids,Flavanones,Eriodictyol,288.252,C15H12O6,552-58-9,2002-09-02 13:47:46 UTC,2015-05-10 23:28:43 UTC
+203,COC1=C(O)C=C(C=C1)[C@@H]1CC(=O)C2=C(O)C=C(O)C=C2O1,Flavonoids,Flavanones,Hesperetin,302.279,C16H14O6,520-33-2,2002-09-02 11:56:21 UTC,2015-05-10 23:28:43 UTC
+207,COC1=C(O)C=C(C=C1)[C@@H]1CC(=O)C2=C(O)C=C(O[C@@H]3O[C@H](CO[C@@H]4O[C@@H](C)[C@H](O)[C@@H](O)[C@H]4O)[C@@H](O)[C@H](O)[C@H]3O)C=C2O1,Flavonoids,Flavanones,Hesperidin,610.561,C28H34O15,520-26-3,2002-09-04 15:52:52 UTC,2015-05-10 23:28:43 UTC
+208,C[C@@H]1O[C@@H](O[C@@H]2[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]2OC2=CC(O)=C3C(=O)C[C@H](OC3=C2)C2=CC=C(O)C=C2)[C@H](O)[C@H](O)[C@H]1O,Flavonoids,Flavanones,Naringin,580.535,C27H32O14,10236-47-2,2002-09-04 15:55:15 UTC,2015-05-10 23:28:43 UTC
+211,COC1=C(O)C=C(C=C1)[C@@H]1CC(=O)C2=C(O)C=C(O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O[C@@H]3O[C@@H](C)[C@H](O)[C@@H](O)[C@H]3O)C=C2O1,Flavonoids,Flavanones,Neohesperidin,610.561,C28H34O15,"",2002-09-04 16:00:24 UTC,2015-05-10 23:28:43 UTC
+218,COC1=CC=C(C=C1)[C@@H]1CC(=O)C2=C(O)C=C(O)C=C2O1,Flavonoids,Flavanones,Isosakuranetin,286.279,C16H14O5,480-43-3,2005-05-26 12:06:13 UTC,2015-05-10 23:28:44 UTC
+290,OC1=CC=C(C=C1)C1=C(O)C(=O)C2=C(O)C=C(O)C=C2O1,Flavonoids,Flavonols,Kaempferol,286.236,C15H10O6,520-18-3,2002-09-02 11:41:58 UTC,2015-05-10 23:28:46 UTC
+291,OC1=CC(O)=C2C(OC(=C(O)C2=O)C2=CC(O)=C(O)C=C2)=C1,Flavonoids,Flavonols,Quercetin,302.236,C15H10O7,117-39-5,2002-08-20 00:00:00 UTC,2015-05-10 23:28:46 UTC
+293,OC[C@H]1O[C@@H](OC2=C(OC3=CC(O)=CC(O)=C3C2=O)C2=CC(O)=C(O)C=C2)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Flavonols,Quercetin 3-O-glucoside,464.376,C21H20O12,21637-25-2,2002-08-22 11:36:11 UTC,2015-05-10 23:28:46 UTC
+296,C[C@@H]1O[C@@H](OC[C@H]2O[C@@H](OC3=C(OC4=CC(O)=CC(O)=C4C3=O)C3=CC(O)=C(O)C=C3)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@H](O)[C@H]1O,Flavonoids,Flavonols,Quercetin 3-O-rutinoside,610.518,C27H30O16,153-18-4,2002-08-21 15:16:36 UTC,2015-05-10 23:28:46 UTC
+307,OC[C@H]1O[C@@H](OC2=C(O)C=C(C=C2)C2=C(O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)C(=O)C3=C(O)C=C(O)C=C3O2)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Flavonols,"Quercetin 3,4'-O-diglucoside",626.517,C27H30O17,"",2002-09-25 17:02:15 UTC,2015-05-10 23:28:47 UTC
+318,COC1=C(O)C=CC(=C1)C1=C(O)C(=O)C2=C(O)C=C(O)C=C2O1,Flavonoids,Flavonols,Isorhamnetin,316.262,C16H12O7,480-19-3,2002-09-02 11:41:58 UTC,2015-05-10 23:28:47 UTC
+326,COC1=C(O)C=CC(=C1)C1=C(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)C(=O)C2=C(O)C=C(O)C=C2O1,Flavonoids,Flavonols,Isorhamnetin 3-O-glucoside,478.403,C22H22O12,"",2004-06-18 00:00:00 UTC,2015-05-10 23:28:47 UTC
+330,OC1C(O)C(OC2=C(OC3=CC(O)=CC(O)=C3C2=O)C2=CC=C(O)C(O)=C2)OC(C1O)C(O)=O,Flavonoids,Flavonols,Quercetin 3-O-glucuronide,478.36,C21H18O13,"",2005-01-28 15:35:45 UTC,2015-05-10 23:28:47 UTC
+331,[H][C@@]1(OC2=C(OC3=CC(O)=CC(O)=C3C2=O)C2=CC(OC)=C(O)C=C2)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Flavonols,Isorhamnetin 3-O-glucuronide,492.386,C22H20O13,"",2005-01-28 15:54:47 UTC,2015-05-10 23:28:47 UTC
+394,OC1=CC=C(C=C1)C1=COC2=C(C=CC(O)=C2)C1=O,Flavonoids,Isoflavonoids,Daidzein,254.238,C15H10O4,486-66-8,2004-11-24 00:00:00 UTC,2015-05-10 23:28:49 UTC
+395,COC1=CC=C(C=C1)C1=COC2=C(C=CC(O)=C2)C1=O,Flavonoids,Isoflavonoids,Formononetin,268.264,C16H12O4,485-72-3,2004-09-08 00:00:00 UTC,2015-05-10 23:28:49 UTC
+396,OC1=CC=C(C=C1)C1=COC2=CC(O)=CC(O)=C2C1=O,Flavonoids,Isoflavonoids,Genistein,270.237,C15H10O5,446-72-0,2004-11-24 00:00:00 UTC,2015-05-10 23:28:49 UTC
+397,COC1=CC=C(C=C1)C1=COC2=CC(O)=CC(O)=C2C1=O,Flavonoids,Isoflavonoids,Biochanin A,284.263,C16H12O5,491-80-5,2004-09-08 00:00:00 UTC,2015-05-10 23:28:49 UTC
+398,COC1=C(O)C=C2OC=C(C(=O)C2=C1)C1=CC=C(O)C=C1,Flavonoids,Isoflavonoids,Glycitein,284.263,C16H12O5,40957-83-3,2007-06-29 00:00:00 UTC,2015-05-10 23:28:49 UTC
+399,OC1=CC2=C(C=C1)C1=C(O2)C2=C(OC1=O)C=C(O)C=C2,Other polyphenols,Other polyphenols,Coumestrol,268.221,C15H8O5,479-13-0,2007-06-29 00:00:00 UTC,2015-05-10 23:44:11 UTC
+400,COC1=C(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)C=C2OC=C(C(=O)C2=C1)C1=CC=C(O)C=C1,Flavonoids,Isoflavonoids,Glycitin,446.404,C22H22O10,"",2009-06-08 15:59:33 UTC,2015-05-10 23:28:49 UTC
+403,OC[C@H]1O[C@@H](OC2=CC3=C(C=C2)C(=O)C(=CO3)C2=CC=C(O)C=C2)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Isoflavonoids,Daidzin,416.378,C21H20O9,552-66-9,2009-06-08 16:37:45 UTC,2015-05-10 23:28:50 UTC
+407,O[C@H]1[C@H](O)[C@@H](COC(=O)CC(O)=O)O[C@@H](OC2=CC3=C(C=C2)C(=O)C(=CO3)C2=CC=C(O)C=C2)[C@@H]1O,Flavonoids,Isoflavonoids,6''-O-Malonyldaidzin,502.424,C24H22O12,"",2009-06-10 15:09:22 UTC,2015-05-10 23:28:50 UTC
+412,OC(=O)C1=CC(O)=C(O)C=C1,Phenolic acids,Hydroxybenzoic acids,Protocatechuic acid,154.12,C7H6O4,99-50-3,2002-09-12 14:09:47 UTC,2015-05-10 23:28:50 UTC
+413,OC(=O)C1=CC(O)=C(O)C(O)=C1,Phenolic acids,Hydroxybenzoic acids,Gallic acid,170.12,C7H6O5,149-91-7,2002-09-12 14:10:47 UTC,2015-05-10 23:28:50 UTC
+414,COC1=C(O)C=CC(=C1)C(O)=O,Phenolic acids,Hydroxybenzoic acids,Vanillic acid,168.147,C8H8O4,121-34-6,2004-05-06 16:14:14 UTC,2015-05-10 23:28:50 UTC
+416,OC(=O)C1=C(O)C=CC(O)=C1,Phenolic acids,Hydroxybenzoic acids,Gentisic acid,154.12,C7H6O4,490-79-9,2004-08-30 00:00:00 UTC,2015-05-10 23:28:50 UTC
+417,OC1=C(O)C2=C3C(=C1)C(=O)OC1=C3C(=CC(O)=C1O)C(=O)O2,Phenolic acids,Hydroxybenzoic acids,Ellagic acid,302.193,C14H6O8,476-66-4,2004-08-26 00:00:00 UTC,2015-05-10 23:28:50 UTC
+418,OC(=O)C1=CC=C(O)C=C1,Phenolic acids,Hydroxybenzoic acids,4-Hydroxybenzoic acid,138.121,C7H6O3,99-96-7,2004-05-06 16:05:32 UTC,2015-05-10 23:28:50 UTC
+420,COC1=CC(=CC(OC)=C1O)C(O)=O,Phenolic acids,Hydroxybenzoic acids,Syringic acid,198.173,C9H10O5,530-57-4,2004-06-18 00:00:00 UTC,2015-05-10 23:28:50 UTC
+427,OC(=O)C1=CC=CC=C1,Phenolic acids,Hydroxybenzoic acids,Benzoic acid,122.121,C7H6O2,65-85-0,2005-01-26 10:45:03 UTC,2015-05-10 23:28:50 UTC
+428,OC(=O)C1=CC=CC=C1O,Phenolic acids,Hydroxybenzoic acids,2-Hydroxybenzoic acid,138.121,C7H6O3,69-72-7,2005-01-26 00:00:00 UTC,2015-05-10 23:28:50 UTC
+429,OC(=O)C1=CC(O)=CC=C1,Phenolic acids,Hydroxybenzoic acids,3-Hydroxybenzoic acid,138.121,C7H6O3,99-06-9,2005-01-26 00:00:00 UTC,2015-05-10 23:28:50 UTC
+430,OC(=O)C1=C(O)C(O)=CC=C1,Phenolic acids,Hydroxybenzoic acids,"2,3-Dihydroxybenzoic acid",154.12,C7H6O4,303-38-8,2005-01-26 13:37:52 UTC,2015-05-10 23:28:51 UTC
+431,OC(=O)C1=C(O)C=C(O)C=C1,Phenolic acids,Hydroxybenzoic acids,"2,4-Dihydroxybenzoic acid",154.12,C7H6O4,89-86-1,2005-01-26 13:37:52 UTC,2015-05-10 23:28:51 UTC
+436,OC(=O)C1=CC(O)=CC(O)=C1,Phenolic acids,Hydroxybenzoic acids,"3,5-Dihydroxybenzoic acid",154.12,C7H6O4,99-10-5,2006-04-26 16:02:55 UTC,2015-05-10 23:28:51 UTC
+439,CCOC(=O)C1=CC(O)=C(O)C(O)=C1,Phenolic acids,Hydroxybenzoic acids,Gallic acid ethyl ester,198.173,C9H10O5,"",2005-09-07 13:43:27 UTC,2015-05-10 23:28:51 UTC
+449,OC1OC2COC(=O)C3=CC(O)=C(O)C(O)=C3C3=C(O)C(O)=C4OC(=O)C5=C6C(OC(=O)C3=C46)=C(O)C(O)=C5C3=C(O)C(O)=C(O)C=C3C(=O)OC2C2OC(=O)C3=CC(O)=C(O)C(O)=C3C3=C(O)C(O)=C(O)C=C3C(=O)OC12,Phenolic acids,Hydroxybenzoic acids,Punicalagin,1084.72,C48H28O30,65995-63-3,2008-04-16 00:00:00 UTC,2015-05-10 23:28:51 UTC
+450,OC1=CC2=C(C3C(OC2=O)C(O)=C2OC(=O)C4=C5C(OC(=O)C3=C25)=C(O)C2=C4C3=C(C=C(O)C(O)=C3O)C(=O)O2)C(O)=C1O,Phenolic acids,Hydroxybenzoic acids,Gallagic acid,604.385,C28H12O16,"",2008-07-22 00:00:00 UTC,2015-05-10 23:28:51 UTC
+454,OC(=O)C=CC1=CC=C(O)C=C1,Phenolic acids,Hydroxycinnamic acids,p-Coumaric acid,164.158,C9H8O3,7400-08-0,2002-09-25 13:36:42 UTC,2015-05-10 23:28:51 UTC
+455,[H][C@@]1(O)C[C@](O)(C[C@@]([H])(OC(=O)\C=C\C2=CC=C(O)C=C2)[C@]1([H])O)C(O)=O,Phenolic acids,Hydroxycinnamic acids,5-p-Coumaroylquinic acid,338.309,C16H18O8,"",2002-08-28 13:39:07 UTC,2015-05-10 23:28:51 UTC
+457,OC(=O)\C=C\C1=CC(O)=C(O)C=C1,Phenolic acids,Hydroxycinnamic acids,Caffeic acid,180.157,C9H8O4,331-39-5,2002-08-21 08:54:05 UTC,2015-05-10 23:28:51 UTC
+459,COC1=C(O)C=CC(C=CC(O)=O)=C1,Phenolic acids,Hydroxycinnamic acids,Ferulic acid,194.184,C10H10O4,1135-24-6,2002-09-23 09:04:36 UTC,2015-05-10 23:28:51 UTC
+461,OC(=O)[C@@H](CC1=CC(O)=C(O)C=C1)OC(=O)\C=C\C1=CC(O)=C(O)C=C1,Phenolic acids,Hydroxycinnamic acids,Rosmarinic acid,360.315,C18H16O8,537-15-5,2003-03-25 14:47:33 UTC,2015-05-10 23:28:51 UTC
+463,OC(=O)\C=C\C1=CC(O)=CC=C1,Phenolic acids,Hydroxycinnamic acids,m-Coumaric acid,164.158,C9H8O3,588-30-7,2004-08-26 00:00:00 UTC,2015-05-10 23:28:51 UTC
+464,COC1=CC(C=CC(O)=O)=CC(OC)=C1O,Phenolic acids,Hydroxycinnamic acids,Sinapic acid,224.21,C11H12O5,530-59-6,2002-09-19 09:46:19 UTC,2015-05-10 23:28:51 UTC
+467,O[C@@H]1C[C@@](O)(C[C@@H](OC(=O)\C=C\C2=CC=C(O)C(O)=C2)[C@H]1O)C(O)=O,Phenolic acids,Hydroxycinnamic acids,3-Caffeoylquinic acid,354.309,C16H18O9,327-97-9,2002-09-20 16:21:09 UTC,2016-06-02 08:19:48 UTC
+475,O[C@@H]1C[C@](O)(C[C@@H](OC(=O)\C=C\C2=CC(O)=C(O)C=C2)[C@@H]1O)C(O)=O,Phenolic acids,Hydroxycinnamic acids,5-Caffeoylquinic acid,354.309,C16H18O9,327-97-9,2004-08-26 00:00:00 UTC,2016-06-02 08:17:27 UTC
+478,[H][C@@]1(O)C[C@](O)(C[C@@]([H])(OC(=O)\C=C\C2=CC=C(O)C(OC)=C2)[C@]1([H])O)C(O)=O,Phenolic acids,Hydroxycinnamic acids,5-Feruloylquinic acid,368.335,C17H20O9,"",2004-08-27 00:00:00 UTC,2016-05-30 07:49:03 UTC
+479,COC1=CC(\C=C\C(=O)O[C@@]2([H])[C@@](O)([H])C[C@@](O)(C[C@]2(O)[H])C(O)=O)=CC=C1O,Phenolic acids,Hydroxycinnamic acids,4-Feruloylquinic acid,368.335,C17H20O9,"",2004-08-27 00:00:00 UTC,2015-05-10 23:28:52 UTC
+480,COC1=CC(\C=C\C(=O)O[C@@H]2C[C@](O)(C[C@@H](O)[C@@H]2O)C(O)=O)=CC=C1O,Phenolic acids,Hydroxycinnamic acids,3-Feruloylquinic acid,368.335,C17H20O9,"",2004-08-27 00:00:00 UTC,2016-06-02 09:10:06 UTC
+484,O[C@H]1[C@H](OC(=O)\C=C\C2=CC=C(O)C(O)=C2)C[C@@](O)(C[C@H]1OC(=O)\C=C\C1=CC=C(O)C(O)=C1)C(=O)O,Phenolic acids,Hydroxycinnamic acids,"3,5-Dicaffeoylquinic acid",516.451,C25H24O12,"",2004-11-18 00:00:00 UTC,2016-06-02 08:27:22 UTC
+485,COC1=C(O)C=C(\C=C\C(O)=O)C=C1,Phenolic acids,Hydroxycinnamic acids,Isoferulic acid,194.184,C10H10O4,537-73-5,2004-11-19 13:38:28 UTC,2015-05-10 23:28:52 UTC
+520,O[C@@H]1C[C@@](O)(C[C@@H](OC(=O)\C=C\C2=CC=C(O)C(O)=C2)[C@H]1OC(=O)\C=C\C1=CC=C(O)C(O)=C1)C(O)=O,Phenolic acids,Hydroxycinnamic acids,"3,4-Dicaffeoylquinic acid",516.451,C25H24O12,"",2006-07-11 00:00:00 UTC,2016-06-02 08:45:12 UTC
+526,O[C@@H]1C[C@@](C[C@@H](OC(=O)\C=C\C2=CC=C(O)C(O)=C2)[C@@H]1O)(OC(=O)\C=C\C1=CC=C(O)C(O)=C1)C(O)=O,Phenolic acids,Hydroxycinnamic acids,"1,5-Dicaffeoylquinic acid",516.451,C25H24O12,"",2006-08-07 00:00:00 UTC,2016-06-02 09:01:19 UTC
+527,O[C@@H]1C[C@](O)(C[C@@H](OC(=O)\C=C\C2=CC(O)=C(O)C=C2)[C@@H]1OC(=O)\C=C\C1=CC(O)=C(O)C=C1)C(O)=O,Phenolic acids,Hydroxycinnamic acids,"4,5-Dicaffeoylquinic acid",516.451,C25H24O12,"",2006-08-07 00:00:00 UTC,2015-05-10 23:28:53 UTC
+572,OC(=O)CC1=CC(O)=C(O)C=C1,Phenolic acids,Hydroxyphenylacetic acids,"3,4-Dihydroxyphenylacetic acid",168.147,C8H8O4,102-32-9,2005-01-26 13:32:01 UTC,2015-05-10 23:28:54 UTC
+573,OC(=O)CC1=CC=C(O)C=C1,Phenolic acids,Hydroxyphenylacetic acids,4-Hydroxyphenylacetic acid,152.147,C8H8O3,156-38-7,2005-01-26 13:32:01 UTC,2015-05-10 23:28:54 UTC
+574,COC1=C(O)C=CC(CC(O)=O)=C1,Phenolic acids,Hydroxyphenylacetic acids,Homovanillic acid,182.173,C9H10O4,306-08-1,2005-01-26 13:32:01 UTC,2015-05-10 23:28:54 UTC
+579,OC(=O)CCC1=CC(O)=C(O)C=C1,Phenolic acids,Hydroxyphenylpropanoic acids,Dihydrocaffeic acid,182.173,C9H10O4,1078-61-1,2003-05-05 11:53:32 UTC,2015-05-10 23:28:55 UTC
+580,OC1=CC=C(\C=C\C2=CC(O)=CC(O)=C2)C=C1,Stilbenes,Stilbenes,Trans-Resveratrol,228.243,C14H12O3,501-36-0,2005-03-15 10:04:40 UTC,2015-05-10 23:28:55 UTC
+592,OC1=CC=C(\C=C\C2=CC(O)=CC(O)=C2)C=C1,Stilbenes,Stilbenes,Resveratrol,228.243,C14H12O3,501-36-0,2005-03-15 10:04:40 UTC,2015-05-10 23:28:56 UTC
+594,COC1=C(O)C=CC([13CH2][C@@H](CO)[C@H]([13CH2]O)[13CH2]C2=CC(OC)=C(O)C=C2)=C1,Lignans,Lignans,Secoisolariciresinol,365.395,C20H26O6,29388-59-8,2003-04-23 17:17:14 UTC,2015-05-10 23:28:56 UTC
+595,COC1=C(O)C=CC(C[C@H]2COC(=O)[C@@H]2CC2=CC(OC)=C(O)C=C2)=C1,Lignans,Lignans,Matairesinol,358.385,C20H22O6,580-72-3,2005-09-05 00:00:00 UTC,2015-05-10 23:28:56 UTC
+596,COC1=C(O)C=CC(C[C@H]2CO[C@@H]([C@H]2CO)C2=CC(OC)=C(O)C=C2)=C1,Lignans,Lignans,Lariciresinol,360.401,C20H24O6,83327-19-9,2005-09-05 15:30:50 UTC,2015-05-10 23:28:56 UTC
+608,[H][C@]12CO[C@]([H])(C3=CC4=C(OCO4)C=C3O)[C@@]1([H])CO[C@@H]2C1=CC2=C(OCO2)C=C1,Lignans,Lignans,Sesaminol,370.353,C20H18O7,74061-79-3,2007-12-05 00:00:00 UTC,2015-05-10 23:28:56 UTC
+614,[H][C@](O)(C1C(=O)OC[C@]1([H])CC1=CC=C(O)C(OC)=C1)C1=CC=C(O)C(OC)=C1,Lignans,Lignans,7-Hydroxymatairesinol,374.384,C20H22O7,"",2005-09-05 00:00:00 UTC,2015-05-10 23:28:56 UTC
+617,[H][C@@]1(CO)CC2=C(C=C(O)C(OC)=C2)[C@]([H])(C2=CC=C(O)C(OC)=C2)[C@@]1([H])CO,Lignans,Lignans,Cyclolariciresinol,360.401,C20H24O6,"",2007-12-11 00:00:00 UTC,2015-05-10 23:28:56 UTC
+627,[H][C@]12CO[C@@]([H])(C3=CC4=C(OCO4)C=C3O)[C@@]1([H])CO[C@]2([H])C1=CC2=C(OCO2)C=C1,Lignans,Lignans,Episesaminol,370.353,C20H18O7,"",2007-12-12 00:00:00 UTC,2015-05-10 23:28:57 UTC
+643,COC1=C(O)C=CC(CCO)=C1,Other polyphenols,Hydroxyphenylalcohols,Homovanillyl alcohol,168.19,C9H12O3,2380-78-1,2007-11-06 00:00:00 UTC,2015-05-10 23:28:57 UTC
+654,OC1=CC=CC=C1O,Other polyphenols,Other polyphenols,Catechol,110.111,C6H6O2,120-80-9,2006-04-27 11:23:26 UTC,2015-05-10 23:28:58 UTC
+655,OC1=CC=CC(O)=C1O,Other polyphenols,Other polyphenols,Pyrogallol,126.11,C6H6O3,87-66-1,2006-04-27 11:23:26 UTC,2015-05-10 23:28:58 UTC
+673,OCCC1=CC=C(O)C=C1,Other polyphenols,Tyrosols,Tyrosol,138.164,C8H10O2,501-94-0,2005-09-05 13:56:59 UTC,2015-05-10 23:28:58 UTC
+674,OCCC1=CC(O)=C(O)C=C1,Other polyphenols,Tyrosols,Hydroxytyrosol,154.163,C8H10O3,10597-60-1,2005-09-05 14:01:22 UTC,2015-05-10 23:28:58 UTC
+677,COC(=O)C1=CO[C@@H](O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)\C(=C\C)[C@@H]1CC(=O)OCCC1=CC(O)=C(O)C=C1,Other polyphenols,Tyrosols,Oleuropein,540.514,C25H32O13,32619-42-4,2007-10-17 00:00:00 UTC,2015-05-10 23:28:59 UTC
+681,C\C=C(/C=O)C(CC=O)CC(=O)OCCC1=CC(O)=C(O)C=C1,Other polyphenols,Tyrosols,"3,4-DHPEA-EDA",320.337,C17H20O6,"",2007-10-17 00:00:00 UTC,2015-05-10 23:28:59 UTC
+686,C\C=C(\C=O)C(CC=O)CC(=O)OCCC1=CC=C(O)C=C1,Other polyphenols,Tyrosols,p-HPEA-EDA,304.338,C17H20O5,"",2007-10-17 00:00:00 UTC,2015-05-10 23:28:59 UTC
+707,CCC1=CC=C(O)C=C1,Other polyphenols,Alkylphenols,4-Ethylphenol,122.164,C8H10O,123-07-9,2007-02-21 00:00:00 UTC,2015-05-10 23:28:59 UTC
+723,OC1=C(O)C=C(C=O)C=C1,Other polyphenols,Hydroxybenzaldehydes,Protocatechuic aldehyde,138.121,C7H6O3,139-85-5,2005-08-17 10:39:01 UTC,2015-05-10 23:29:00 UTC
+724,COC1=C(O)C=CC(C=O)=C1,Other polyphenols,Hydroxybenzaldehydes,Vanillin,152.147,C8H8O3,121-33-5,2005-08-17 11:50:00 UTC,2015-05-10 23:29:00 UTC
+735,[H][C@]1(CO)O[C@@]([H])(OC[C@@]2([H])O[C@@]([H])(OC3=CC4=C(O[C@]5([H])O[C@]([H])(CO)[C@@]([H])(O)[C@]([H])(O)[C@@]5([H])O)C=C(O)C=C4[O+]=C3C3=CC=C(O)C(O)=C3)[C@]([H])(O)[C@@]([H])(O)[C@]2([H])O)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O,Flavonoids,Anthocyanins,Cyanidin 3-O-diglucoside-5-O-glucoside,773.666,C33H41O21,"",2011-04-17 13:47:42 UTC,2015-05-10 23:29:00 UTC
+736,[H][C@]1(CO)O[C@@]([H])(OC[C@@]2([H])O[C@@]([H])(OC3=C([O+]=C4C=C(O)C=C(O[C@]5([H])O[C@]([H])(CO)[C@@]([H])(O)[C@]([H])(O)[C@@]5([H])O)C4=C3)C3=CC(OC)=C(O)C=C3)[C@]([H])(O)[C@@]([H])(O)[C@]2([H])O)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O,Flavonoids,Anthocyanins,Peonidin 3-O-diglucoside-5-O-glucoside,787.693,C34H43O21,"",2011-04-17 13:47:42 UTC,2015-05-10 23:29:00 UTC
+738,[H][C@]1(CO)O[C@@]([H])(OC2=CC(O)=CC3=[O+]C(=C(O[C@]4([H])O[C@]([H])(CO)[C@@]([H])(O)[C@]([H])(O)[C@@]4([H])O[C@]4([H])O[C@]([H])(COC(=O)\C=C\C5=CC=C(O)C(O)=C5)[C@@]([H])(O)[C@]([H])(O)[C@@]4([H])O)C=C23)C2=CC(OC)=C(O)C=C2)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O,Flavonoids,Anthocyanins,Peonidin 3-O-(2-O-(6-O-(E)-caffeoyl-D-glucosyl)-D-glucoside)-5-O-D-glucoside,949.835,C43H49O24,"",2010-11-10 00:00:00 UTC,2015-04-14 03:50:54 UTC
+739,COC1=C(O)C=CC(=C1)C1=[O+]C2=CC(O)=CC(O)=C2C=C1O[C@@H]1OC(CO)[C@@H](O)C(O)C1O[C@@H]1OC(CO)[C@@H](O)C(O)[C@H]1O,Flavonoids,Anthocyanins,Peonidin 3-O-sophoroside,625.552,C28H33O16,"",2010-11-10 00:00:00 UTC,2015-04-14 03:50:54 UTC
+740,COC1=C(O)C=CC(=C1)C1=[O+]C2=CC(O)=CC(O)=C2C=C1O[C@@H]1OC(CO)[C@@H](O)C(O)C1O[C@@H]1OC[C@@H](O)C(O)[C@H]1O,Flavonoids,Anthocyanins,Peonidin 3-O-sambubioside,595.526,C27H31O15,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:37 UTC
+741,[H][C@]1(CO)O[C@@]([H])(O[C@@]2([H])[C@]([H])(OC3=C([O+]=C4C=C(O)C=C(O[C@]5([H])O[C@]([H])(CO)[C@@]([H])(O)[C@]([H])(O)[C@@]5([H])O)C4=C3)C3=CC(OC)=C(O)C=C3)O[C@]([H])(CO)[C@@]([H])(O)[C@]2([H])O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Anthocyanins,Peonidin 3-O-sambubioside-5-O-glucoside,757.667,C33H41O20,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:37 UTC
+742,[H][C@]1(CO)O[C@@]([H])(OC2=C([O+]=C3C=C(O)C=C(O)C3=C2)C2=CC(OC)=C(O)C=C2)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Anthocyanins,Peonidin 3-O-xyloside,433.385,C21H21O10,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:37 UTC
+743,[H][C@]1(CO)O[C@@]([H])(OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC=C(O)C(OC)=C2)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O,Flavonoids,Anthocyanins,4'-O-Methylcyanidin 3-O-D-glucoside,463.411,C22H23O11,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:00 UTC
+745,O[C@@H]1[C@@H](COC(=O)CC(O)=O)O[C@@H](OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC(O)=C(O)C=C2)[C@H](O)[C@H]1OC(=O)CC(O)=O,Flavonoids,Anthocyanins,"Cyanidin 3-O-(3'',6''-O-dimalonyl-glucoside)",621.477,C27H25O17,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:01 UTC
+748,[H][C@]1(CO)O[C@@]([H])(OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC(O)=C(OC)C(O)=C2)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O,Flavonoids,Anthocyanins,4-O-Methyldelphinidin 3-O-D-glucoside,479.411,C22H23O12,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:01 UTC
+749,[H][C@]1(CO)O[C@]([H])(OC2=C([O+]=C3C=C(O)C=C(O)C3=C2)C2=CC(O)=C(OC)C=C2)[C@@]([H])(O)[C@]1([H])O,Flavonoids,Anthocyanins,Isopeonidin 3-O-arabinoside,433.385,C21H21O10,"",2010-11-10 00:00:00 UTC,2015-04-14 03:50:54 UTC
+750,[H][C@]1(CO)O[C@@]([H])(OC2=C([O+]=C3C=C(O)C=C(O)C3=C2)C2=CC(O)=C(OC)C=C2)[C@]([H])(O)[C@@]([H])(O)[C@@]1([H])O,Flavonoids,Anthocyanins,Isopeonidin 3-O-galactoside,463.411,C22H23O11,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:37 UTC
+751,[H][C@]1(CO)O[C@@]([H])(OC2=C([O+]=C3C=C(O)C=C(O)C3=C2)C2=CC(O)=C(OC)C=C2)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O,Flavonoids,Anthocyanins,Isopeonidin 3-O-glucoside,463.411,C22H23O11,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:37 UTC
+752,[H][C@@]1(C)O[C@@]([H])(OC[C@@]2([H])O[C@@]([H])(OC3=CC4=C(C=C(O)C=C4O)[O+]=C3C3=CC=C(OC)C(O)=C3)[C@]([H])(O)[C@@]([H])(O)[C@]2([H])O)[C@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Anthocyanins,Isopeonidin 3-O-rutinoside,609.553,C28H33O15,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:37 UTC
+753,[H][C@@]1(O)CO[C@@]([H])(O[C@@]2([H])[C@]([H])(OC3=C([O+]=C4C=C(O)C=C(O)C4=C3)C3=CC(O)=C(OC)C=C3)O[C@]([H])(CO)[C@@]([H])(O)[C@]2([H])O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Anthocyanins,Isopeonidin 3-O-sambubioside,595.526,C27H31O15,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:37 UTC
+754,[H][C@]1(CO)O[C@@]([H])(OC2=C([O+]=C3C=C(O)C=C(O)C3=C2)C2=CC(O)=C(OC)C=C2)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Anthocyanins,Isopeonidin 3-O-xyloside,433.385,C21H21O10,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:37 UTC
+757,[H][C@]1(CO)O[C@@]([H])(OC2=CC(O)=CC3=C2C=C(O[C@]2([H])O[C@]([H])(COC(=O)\C=C\C4=CC(O)=C(O)C=C4)[C@@]([H])(O)[C@]([H])(O)[C@@]2([H])O[C@]2([H])O[C@]([H])(CO)[C@@]([H])(O)[C@]([H])(O)[C@@]2([H])O)C(=[O+]3)C2=CC=C(O)C(OC)=C2)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O,Flavonoids,Anthocyanins,Cyanidin 3-O-(2-O-(6-O-(E)-caffeoyl-D glucoside)-D-glucoside)-5-O-D-glucoside,949.835,C43H49O24,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:01 UTC
+758,[H][C@@]1(C)O[C@@]([H])(OC[C@@]2([H])O[C@@]([H])(OC3=CC4=C(O)C=C(O)C=C4[O+]=C3C3=CC(O)=C(OC)C(O)=C3)[C@]([H])(O)[C@@]([H])(O)[C@]2([H])O)[C@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Anthocyanins,4'-O-Methyldelphinidin 3-O-rutinoside,625.552,C28H33O16,"",2011-05-02 10:31:17 UTC,2015-05-10 23:29:01 UTC
+762,[H][C@@]1(OC2=CC(O)=CC(O)=C2C(=O)CCC2=CC=C(O)C=C2)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Dihydrochalcones,Phloretin 2'-O-glucuronide,450.393,C21H22O11,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:01 UTC
+766,[H][C@@]1(O)CC2=C(O[C@]1([H])C1=CC=C(O)C(OC)=C1)C=C(O)C=C2O,Flavonoids,Flavanols,3'-O-Methylepicatechin,304.295,C16H16O6,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:37 UTC
+767,[H][C@@]1(O)CC2=C(O[C@]1([H])C1=CC(O[C@]3([H])O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]3([H])O)=C(OC)C=C1)C=C(O)C=C2O,Flavonoids,Flavanols,4'-O-Methyl-(-)-epicatechin 3'-O-glucuronide,480.419,C22H24O12,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:37 UTC
+768,[H][C@@]1(O)CC2=C(O[C@]1([H])C1=CC=C(O)C(O[C@]3([H])O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]3([H])O)=C1)C=C(O)C=C2O,Flavonoids,Flavanols,Epicatechin 3'-O-glucuronide,466.392,C21H22O12,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:37 UTC
+770,[H][C@]1(O)CC2=C(O[C@]1([H])C1=CC(OC)=C(O)C=C1)C=C(O)C=C2O,Flavonoids,Flavanols,3'-O-Methylcatechin,304.295,C16H16O6,"",2010-11-10 00:00:00 UTC,2015-04-14 03:50:55 UTC
+772,[H][C@]1(CC2=C(O)C=C(O)C=C2O[C@]1([H])C1=CC(O)=C(OC)C(O)=C1)OC(=O)C1=CC(O)=C(OC)C(O)=C1,Flavonoids,Flavanols,"4',4""-O-Dimethylepigallocatechin 3-O-gallate",486.425,C24H22O11,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:37 UTC
+773,COC1=C(O)C=C(C=C1O)[C@H]1OC2=CC(O)=CC(O)=C2C[C@H]1O,Flavonoids,Flavanols,4'-O-Methylepigallocatechin,320.294,C16H16O7,"",2010-11-10 00:00:00 UTC,2015-04-14 03:50:55 UTC
+774,[H][C@]1(CC2=C(O)C=C(O)C=C2O[C@]1([H])C1=CC(O)=C(O)C(O)=C1)OC(=O)C1=CC(O)=C(OC)C(O)=C1,Flavonoids,Flavanols,4''-O-Methylepigallocatechin 3-O-gallate,472.398,C23H20O11,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:37 UTC
+775,[H][C@@]1(O)CC2=C(O[C@]1([H])C1=CC=C(OC)C(O)=C1)C=C(O)C=C2O,Flavonoids,Flavanols,4'-O-Methylepicatechin,304.295,C16H16O6,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:38 UTC
+776,[H][C@]1(CC2=C(O)C=C(O[C@]3([H])O[C@]([H])(CO)[C@@]([H])(O)[C@]([H])(O)[C@@]3([H])O)C=C2O[C@]1([H])C1=CC(O)=C(O)C(O)=C1)OC(=O)C1=CC(O)=C(O[C@]2([H])O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]2([H])O)C(O)=C1,Flavonoids,Flavanols,Epigallocatechin 3-O-gallate-7-O-glucoside-4''-O-glucuronide,796.636,C34H36O22,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:38 UTC
+780,[H][C@]1(CC2=C(O[C@]1([H])C1=CC(O)=C(O)C(O)=C1)C=C(O)C=C2O)O[C@]1([H])O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Flavanols,(-)-Epigallocatechin 3-O-glucuronide,482.392,C21H22O13,"",2011-03-24 16:26:47 UTC,2015-05-10 23:29:01 UTC
+784,[H][C@@]1(O)CC2=C(O[C@]1([H])C1=CC(OC)=C(O)C=C1)C=C(O[C@]1([H])O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O)C=C2O,Flavonoids,Flavanols,3'-O-Methyl-(-)-epicatechin 7-O-glucuronide,480.419,C22H24O12,"",2011-04-10 14:45:27 UTC,2015-05-10 23:29:01 UTC
+785,[H][C@@]1(O)CC2=C(O[C@]1([H])C1=CC=C(O)C(O)=C1)C=C(O[C@]1([H])O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O)C=C2O,Flavonoids,Flavanols,Epicatechin 7-O-glucuronide,466.392,C21H22O12,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:38 UTC
+786,[H][C@@]1(O)CC2=C(O[C@]1([H])C1=CC(O)=C(O)C(O[C@]3([H])O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]3([H])O)=C1)C=C(O)C=C2O,Flavonoids,Flavanols,(-)-Epigallocatechin 3'-O-glucuronide,482.392,C21H22O13,"",2011-03-24 16:26:47 UTC,2015-05-10 23:29:01 UTC
+787,[H][C@@]1(O)CC2=C(O[C@]1([H])C1=CC(O)=C(O)C(O)=C1)C=C(O[C@]1([H])O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O)C=C2O,Flavonoids,Flavanols,(-)-Epigallocatechin 7-O-glucuronide,482.392,C21H22O13,"",2011-03-24 16:26:47 UTC,2015-05-10 23:29:01 UTC
+788,[H][C@@]1(O)CC2=C(O[C@]1([H])C1=CC(O)=C(OC)C(O[C@]3([H])O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]3([H])O)=C1)C=C(O)C=C2O,Flavonoids,Flavanols,4'-O-Methyl-(-)-epigallocatechin 3'-O-glucuronide,496.418,C22H24O13,"",2011-03-24 16:26:47 UTC,2015-05-10 23:29:01 UTC
+789,[H][C@@]1(O)CC2=C(O[C@]1([H])C1=CC(O)=C(OC)C(O)=C1)C=C(O[C@]1([H])O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O)C=C2O,Flavonoids,Flavanols,4'-O-Methyl-(-)-epigallocatechin 7-O-glucuronide,496.418,C22H24O13,"",2011-03-24 16:26:47 UTC,2015-05-10 23:29:01 UTC
+791,COC1=CC=C(C=C1O[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)C(O)=O)C1CC(=O)C2=C(O1)C=C(O)C=C2O,Flavonoids,Flavanones,Hesperetin 3'-O-glucuronide,478.403,C22H22O12,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:38 UTC
+792,COC1=CC=C(C=C1O)C1CC(=O)C2=C(O1)C=C(O[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)C(O)=O)C=C2O,Flavonoids,Flavanones,Hesperetin 7-O-glucuronide,478.403,C22H22O12,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:38 UTC
+793,COC1=CC=C(C=C1OS(O)(=O)=O)C1CC(=O)C2=C(O1)C=C(O)C=C2O,Flavonoids,Flavanones,Hesperetin 3'-sulfate,382.342,C16H14O9S,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:38 UTC
+795,COC1=C(O)C=CC(=C1)[C@@H]1CC(=O)C2=C(O)C=C(O)C=C2O1,Flavonoids,Flavanones,Homoeriodictyol,302.279,C16H14O6,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:38 UTC
+796,[H][C@@]1(OC2=CC=C(C=C2)C2CC(=O)C3=C(O2)C=C(O)C=C3O)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Flavanones,Naringenin 4'-O-glucuronide,448.377,C21H20O11,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:01 UTC
+797,[H][C@@]1(OC2=CC(O)=CC3=C2C(=O)CC(O3)C2=CC=C(O)C=C2)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Flavanones,Naringenin 5-O-glucuronide,448.377,C21H20O11,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:01 UTC
+798,[H][C@@]1(OC2=CC3=C(C(=O)CC(O3)C3=CC=C(O)C=C3)C(O)=C2)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Flavanones,Naringenin 7-O-glucuronide,448.377,C21H20O11,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:01 UTC
+799,COC1=CC=C(C=C1O[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)C(O)=O)C1CC(=O)C2=C(O1)C=C(O[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)C(O)=O)C=C2O,Flavonoids,Flavanones,"Hesperetin 3',7-O-diglucuronide",654.527,C28H30O18,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:01 UTC
+800,COC1=CC=C(C=C1O)C1CC(=O)C2=C(O1)C=C(O[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)C(O)=O)C=C2O[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)C(O)=O,Flavonoids,Flavanones,"Hesperetin 5,7-O-diglucuronide",654.527,C28H30O18,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:01 UTC
+819,[H][C@@]1(OC2=CC(=CC=C2O)C2=C(O)C(=O)C3=C(O)C=C(O)C=C3O2)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Flavonols,Quercetin 3'-O-glucuronide,478.36,C21H18O13,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+820,OC1=CC(O)=C2C(=O)C(O)=C(OC2=C1)C1=CC(OS(O)(=O)=O)=C(O)C=C1,Flavonoids,Flavonols,Quercetin 3'-sulfate,382.299,C15H10O10S,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+821,OC1C(O)[C@H](OC2=C(O)C=C(C=C2)C2=C(O)C(=O)C3=C(O)C=C(O)C=C3O2)O[C@@H]([C@H]1O)C(O)=O,Flavonoids,Flavonols,Quercetin 4'-O-glucuronide,478.36,C21H18O13,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+822,[H][C@@]1(OC2=CC=C(C=C2OC)C2=C(O)C(=O)C3=C(O)C=C(O)C=C3O2)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Flavonols,Isorhamnetin 4'-O-glucuronide,492.386,C22H20O13,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+825,COC1=CC(O)=C(C=C1OC)C1=COC2=C(C=CC(O)=C2)C1=O,Flavonoids,Isoflavonoids,"2',7-Dihydroxy-4',5'-dimethoxyisoflavone",314.289,C17H14O6,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+826,OC1=CC=C(C=C1)C(=C)C(=O)C1=C(O)C=C(O)C=C1,Flavonoids,Isoflavonoids,2-Dehydro-O-desmethylangolensin,256.253,C15H12O4,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+827,COC1=CC(O)=C(C=C1)C1=COC2=C(C=CC(O)=C2)C1=O,Flavonoids,Isoflavonoids,2'-Hydroxyformononetin,284.263,C16H12O5,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+828,OC1=CC=C2CC(COC2=C1)C1=CC(O)=C(O)C=C1,Flavonoids,Isoflavonoids,"3',4',7-Trihydroxyisoflavan",258.269,C15H14O4,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+829,OC1=CC=C2C(=O)C(COC2=C1)C1=CC(O)=C(O)C=C1,Flavonoids,Isoflavonoids,"3',4',7-Trihydroxyisoflavanone",272.253,C15H12O5,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+831,OC1=CC=C2C(OC=C(C2=O)C2=CC=C(O)C(O)=C2)=C1,Flavonoids,Isoflavonoids,3'-Hydroxydaidzein,270.237,C15H10O5,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+832,CC(C(=O)C1=C(O)C(O)=C(O)C=C1)C1=CC=C(O)C=C1,Flavonoids,Isoflavonoids,3'-Hydroxy-O-desmethylangolensin,274.269,C15H14O5,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+833,OC1=CC=C(C=C1)C1COC2=CC(O)=C(O)C=C2C1=O,Flavonoids,Isoflavonoids,"4',6,7-Trihydroxyisoflavanone",272.253,C15H12O5,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+835,COC1=C(O)C=CC(=C1)C1COC2=CC(O)=CC=C2C1,Flavonoids,Isoflavonoids,"4',7-Dihydroxy-3'-methoxyisoflavan",272.296,C16H16O4,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+836,COC1=C(O)C=C2OCC(CC2=C1)C1=CC=C(O)C=C1,Flavonoids,Isoflavonoids,"4',7-Dihydroxy-6-methoxyisoflavan",272.296,C16H16O4,"",2010-11-10 00:00:00 UTC,2015-04-14 03:50:56 UTC
+838,[H][C@@]1(COC2=CC(O)=CC=C2C1)C1=CC=C(OC)C=C1,Flavonoids,Isoflavonoids,4'-O-Methylequol,256.296,C16H16O3,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+839,OC1=CC=C(C=C1O)C1=COC2=CC(O)=C(O)C(O)=C2C1=O,Flavonoids,Isoflavonoids,"5,6,7,3',4'-Pentahydroxyisoflavone",302.236,C15H10O7,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+840,OC1=CC=C(C=C1)C1=COC2=CC(O)=C(O)C(O)=C2C1=O,Flavonoids,Isoflavonoids,"5,6,7,4'-Tetrahydroxyisoflavone",286.236,C15H10O6,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+841,OC1=CC=C(C=C1O)C1=COC2=C(O)C(O)=CC(O)=C2C1=O,Flavonoids,Isoflavonoids,"5,7,8,3',4'-Pentahydroxyisoflavone",302.236,C15H10O7,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+842,OC1=CC=C(C=C1)C1=COC2=C(O)C(O)=CC(O)=C2C1=O,Flavonoids,Isoflavonoids,"5,7,8,4'-Tetrahydroxyisoflavone",286.236,C15H10O6,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+843,CC(C(=O)C1=C(O)C=C(O)C(O)=C1)C1=CC=C(O)C=C1,Flavonoids,Isoflavonoids,5'-Hydroxy-O-desmethylangolensin,274.269,C15H14O5,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+844,COC1=CC(C(=O)C(C)C2=CC=C(O)C=C2)=C(O)C=C1O,Flavonoids,Isoflavonoids,5'-Methoxy-O-desmethylangolensin,288.295,C16H16O5,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+845,OC1=C(O)C=C(C=C1)C1=COC2=CC(O)=C(O)C=C2C1=O,Flavonoids,Isoflavonoids,"6,7,3',4'-Tetrahydroxyisoflavone",286.236,C15H10O6,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+846,OC1=CC=C(C=C1)C1=COC2=CC(O)=C(O)C=C2C1=O,Flavonoids,Isoflavonoids,"6,7,4'-Trihydroxyisoflavone",270.237,C15H10O5,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+847,COC1=CC=C(C=C1)C(C)C(=O)C1=C(O)C=C(O)C=C1O,Flavonoids,Isoflavonoids,6'-Hydroxyangolensin,288.295,C16H16O5,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+848,CC(C(=O)C1=C(O)C=C(O)C=C1O)C1=CC=C(O)C=C1,Flavonoids,Isoflavonoids,6'-Hydroxy-O-desmethylangolensin,274.269,C15H14O5,"",2010-11-10 00:00:00 UTC,2015-04-14 03:50:56 UTC
+851,OC1=CC=C(C=C1O)C1=COC2=C(O)C(O)=CC=C2C1=O,Flavonoids,Isoflavonoids,"7,8,3',4'-Tetrahydroxyisoflavone",286.236,C15H10O6,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+852,OC1=CC=C(C=C1)C1=COC2=C(C=CC(O)=C2O)C1=O,Flavonoids,Isoflavonoids,"7,8,4'-Trihydroxyisoflavone",270.237,C15H10O5,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+853,COC1=CC=C(C=C1)C(C)C(=O)C1=C(O)C=C(O)C=C1,Flavonoids,Isoflavonoids,Angolensin,272.296,C16H16O4,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+854,COC1=C(O)C=C(C=C1)C1=COC2=C(C=CC(O)=C2)C1=O,Flavonoids,Isoflavonoids,Calycosin,284.263,C16H12O5,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+857,[H][C@@]1(OC2=CC=C(C=C2)C2=COC3=CC(O)=CC=C3C2=O)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Isoflavonoids,Daidzein 4'-O-glucuronide,430.362,C21H18O10,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+859,[H][C@@]1(OC2=CC=C3C(=O)C(=COC3=C2)C2=CC=C(O)C=C2)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Isoflavonoids,Daidzein 7-O-glucuronide,430.362,C21H18O10,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+860,COC1=CC=C(C=C1)C1COC2=CC(O)=CC(O)=C2C1=O,Flavonoids,Isoflavonoids,Dihydrobiochanin A,286.279,C16H14O5,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+861,OC1=CC=C(C=C1)C1COC2=C(C=CC(O)=C2)C1=O,Flavonoids,Isoflavonoids,Dihydrodaidzein,256.253,C15H12O4,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+862,[H][C@@]1(OC2=CC=C3C(=O)C(COC3=C2)C2=CC=C(O)C=C2)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Isoflavonoids,Dihydrodaidzein 7-O-glucuronide,432.378,C21H20O10,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+863,COC1=CC=C(C=C1)C1COC2=C(C=CC(O)=C2)C1=O,Flavonoids,Isoflavonoids,Dihydroformononetin,270.28,C16H14O4,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+864,OC1=CC=C(C=C1)[C@H]1COC2=CC(O)=CC(O)=C2C1=O,Flavonoids,Isoflavonoids,Dihydrogenistein,272.253,C15H12O5,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+865,COC1=C(O)C=C2OCC(C(=O)C2=C1)C1=CC=C(O)C=C1,Flavonoids,Isoflavonoids,Dihydroglycitein,286.279,C16H14O5,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+866,OC1=CC=C(C=C1)[C@H]1COC2=C(C1)C=CC(O)=C2,Flavonoids,Isoflavonoids,Equol,242.27,C15H14O3,"",2010-11-10 00:00:00 UTC,2015-04-14 03:50:56 UTC
+867,[H][C@@]1(OC2=CC=C3C(OC=C(C3=O)C3=CC=C(OC)C=C3)=C2)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Isoflavonoids,Formononetin 7-O-glucuronide,444.388,C22H20O10,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+869,[H][C@@]1(OC2=CC=C(C=C2)C2=COC3=C(C(O)=CC(O[C@]4([H])O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]4([H])O)=C3)C2=O)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Isoflavonoids,"Genistein 4',7-O-diglucuronide",622.485,C27H26O17,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+871,[H][C@@]1(OC2=CC=C(C=C2)C2=COC3=C(C(O)=CC(O)=C3)C2=O)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Isoflavonoids,Genistein 4'-O-glucuronide,446.361,C21H18O11,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+873,[H][C@@]1(OC2=CC(O)=CC3=C2C(=O)C(=CO3)C2=CC=C(O)C=C2)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Isoflavonoids,Genistein 5-O-glucuronide,446.361,C21H18O11,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+874,[H][C@@]1(OC2=CC3=C(C(O)=C2)C(=O)C(=CO3)C2=CC=C(O)C=C2)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Isoflavonoids,Genistein 7-O-glucuronide,446.361,C21H18O11,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+876,[H][C@@]1(OC2=CC=C(C=C2)C2=COC3=CC(O)=C(OC)C=C3C2=O)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Isoflavonoids,Glycitein 4'-O-glucuronide,460.388,C22H20O11,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+877,[H][C@@]1(OC2=C(OC)C=C3C(OC=C(C3=O)C3=CC=C(O)C=C3)=C2)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Isoflavonoids,Glycitein 7-O-glucuronide,460.388,C22H20O11,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+878,COC1=C(O)C(O)=C(C=C1)C1=COC2=C(C=CC(O)=C2)C1=O,Flavonoids,Isoflavonoids,Koparin,300.263,C16H12O6,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+879,CC(C(=O)C1=C(O)C=C(O)C=C1)C1=CC=C(O)C=C1,Flavonoids,Isoflavonoids,O-Desmethylangolensin,258.269,C15H14O4,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:41 UTC
+880,OC1=CC(O)=C2C(OC=C(C2=O)C2=CC(O)=C(O)C=C2)=C1,Flavonoids,Isoflavonoids,Orobol,286.236,C15H10O6,"",2010-11-10 00:00:00 UTC,2015-04-14 03:50:56 UTC
+881,COC1=CC(O)=C2C(=O)C(=COC2=C1)C1=CC=C(O)C=C1,Flavonoids,Isoflavonoids,Prunetin,284.263,C16H12O5,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:41 UTC
+882,OC1=CC2=C(C=C1)C(=O)C(=CO2)C1=CC2=C(OCO2)C=C1,Flavonoids,Isoflavonoids,Pseudobaptigenin,282.248,C16H10O5,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:41 UTC
+883,[H][C@]1(O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)C1=C(O)C=CC2=C1OC=C(C2=O)C1=CC=C(O)C=C1,Flavonoids,Isoflavonoids,Puerarin,416.378,C21H20O9,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:41 UTC
+884,[H][C@]1(CO)O[C@@]([H])(OC2=CC=C3C(=O)C(=COC3=C2)C2=CC=C(O[C@]3([H])O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]3([H])O)C=C2)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O,Flavonoids,Isoflavonoids,Daidzin 4'-O-glucuronide,592.502,C27H28O15,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:41 UTC
+885,[H][C@@]1(OC2=C(OC)C(O)=C3C(OC=C(C3=O)C3=CC=C(OC)C=C3)=C2)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Isoflavonoids,Irisolidone 7-O-glucuronide,490.414,C23H22O12,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+886,COC1=C(OS(O)(=O)=O)C=C2OC=C(C(=O)C2=C1O)C1=CC=C(O)C=C1,Flavonoids,Isoflavonoids,Tectorigenin 7-sulfate,380.326,C16H12O9S,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+887,COC1=C(O)C=C2OC=C(C(=O)C2=C1O)C1=CC=C(OS(O)(=O)=O)C=C1,Flavonoids,Isoflavonoids,Tectorigenin 4'-sulfate,380.326,C16H12O9S,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+888,COC1=CC=C(C=C1)C1=COC2=C(C(O)=C(OC)C(O)=C2)C1=O,Flavonoids,Isoflavonoids,Irisolidone,314.289,C17H14O6,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+889,COC1=C(O)C2=C(OC=C(C2=O)C2=CC=C(O)C=C2)C=C1O,Flavonoids,Isoflavonoids,Tectorigenin,300.263,C16H12O6,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+890,COC1=C(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)C=C2OC=C(C(=O)C2=C1O)C1=CC=C(O)C=C1,Flavonoids,Isoflavonoids,Tectoridin,462.404,C22H22O11,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+891,COC1=CC(O)=C(C=C1)C1=COC2=C(C(O)=CC(O)=C2OC)C1=O,Flavonoids,Isoflavonoids,"5,7-Dihydroxy-8,4'-dimethoxyisoflavone",330.289,C17H14O7,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+892,COC1=C(O)C=C(O)C2=C1OC=C(C2=O)C1=CC=C(O)C=C1,Flavonoids,Isoflavonoids,Isotectorigenin,300.263,C16H12O6,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+893,[H][C@@]1(COC2=CC(O[C@]3([H])O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]3([H])O)=CC=C2C1)C1=CC=C(O)C=C1,Flavonoids,Isoflavonoids,Equol 7-O-glucuronide,418.394,C21H22O9,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+894,[H][C@@]1(COC2=CC(O)=CC=C2C1)C1=CC=C(O[C@]2([H])O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]2([H])O)C=C1,Flavonoids,Isoflavonoids,Equol 4'-O-glucuronide,418.394,C21H22O9,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+900,OC1=CC(O)=C2C(=O)C(COC2=C1)C1=CC(O)=C(O)C=C1,Flavonoids,Isoflavonoids,"3',4',5,7-Tetrahydroxyisoflavanone",288.252,C15H12O6,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+901,[H][C@@]1(COC2=CC(O)=CC=C2C1)C1=CC=C(O)C(OC)=C1,Flavonoids,Isoflavonoids,3'-O-Methylequol,272.296,C16H16O4,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+902,[H][C@@]1(COC2=CC(O)=C(OC)C=C2C1)C1=CC=C(O)C=C1,Flavonoids,Isoflavonoids,6-O-Methylequol,272.296,C16H16O4,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+903,OC1=CC2=C(C(O)=C1)C(=O)C(=CO2)C1=CC=C(O)C(O)=C1,Flavonoids,Isoflavonoids,3'-Hydroxygenistein,286.236,C15H10O6,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+905,OC1=CC=C(C=C1)C1COC2=CC(O)=C(O)C=C2C1=O,Flavonoids,Isoflavonoids,6-Hydroxydihydrodaidzein,272.253,C15H12O5,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+906,[H][C@@]1(COC2=CC(O)=CC=C2C1)C1=CC=C(O)C(O)=C1,Flavonoids,Isoflavonoids,3'-Hydroxyequol,258.269,C15H14O4,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+907,[H][C@@]1(O)C2=CC=C(O)C=C2OC[C@]1([H])C1=CC=C(O)C=C1,Flavonoids,Isoflavonoids,cis-4-Hydroxyequol,258.269,C15H14O4,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+908,COC1=CC(O)=C(C=C1)C1(O)COC2=CC(O)=CC=C2C1=O,Flavonoids,Isoflavonoids,"4'-Methoxy-2',3,7-trihydroxyisoflavanone",302.279,C16H14O6,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+909,OC1=CC=C(C=C1)C1=COC2=CC3=C(OCO3)C(O)=C2C1=O,Flavonoids,Isoflavonoids,Irilone,298.247,C16H10O6,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+910,[H][C@]1(COC2=C(C=CC(O)=C2)C1=O)C1=C(O)C=C(OC)C=C1,Flavonoids,Isoflavonoids,Vestitone,286.279,C16H14O5,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+911,[H][C@]1(COC2=C(C=CC(O)=C2)C1=O)C1=C(OC)C=C(OC)C=C1,Flavonoids,Isoflavonoids,Sativanone,300.306,C17H16O5,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:42 UTC
+912,OC1=CC2=C(C=C1)C(=O)C[C@H](O2)C1=CC(O)=C(O)C=C1,Flavonoids,Isoflavonoids,Butin,272.253,C15H12O5,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:42 UTC
+913,COC1=C(O)C=C2C(OC(=O)C=C2C2=CC(O)=C(O)C=C2)=C1,Flavonoids,Isoflavonoids,3'-Hydroxymelanettin,300.263,C16H12O6,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:42 UTC
+915,COC1=C(O)C=C2C(OC(=O)C=C2C2=CC=C(O)C=C2)=C1,Flavonoids,Isoflavonoids,Melanettin,284.263,C16H12O5,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:42 UTC
+916,COC1=C(O)C=C2C(OC(=O)C=C2C2=CC(O)=CC=C2)=C1,Flavonoids,Isoflavonoids,Stevenin,284.263,C16H12O5,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:42 UTC
+917,COC1=C(O)C(OC)=C(C=C1)C1COC2=C(C=CC(O)=C2)C1=O,Flavonoids,Isoflavonoids,Violanone,316.305,C17H16O6,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:42 UTC
+918,OC1=CC=C(\C=C\C(=O)C2=C(O)C=C(O)C=C2)C=C1,Flavonoids,Isoflavonoids,Isoliquiritigenin,256.253,C15H12O4,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:42 UTC
+919,COC1=C(O)C=C2C(OC(=O)C=C2C2=CC=CC=C2)=C1,Flavonoids,Isoflavonoids,Dalbergin,268.264,C16H12O4,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:42 UTC
+920,[H][C@@]1(COC2=C(C=CC(O)=C2)C1=O)C1=C(OC)C(OC)=C(OC)C=C1,Flavonoids,Isoflavonoids,3'-O-Methylviolanone,330.332,C18H18O6,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:42 UTC
+921,OC1=CC=C(C=C1)C1COC2=C(O)C(O)=CC=C2C1=O,Flavonoids,Isoflavonoids,8-Hydroxydihydrodaidzein,272.253,C15H12O5,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:42 UTC
+922,COC1=CC(=CC(O)=C1O)C(O)=O,Phenolic acids,Hydroxybenzoic acids,3-O-Methylgallic acid,184.146,C8H8O5,"",2010-11-10 00:00:00 UTC,2015-04-14 03:50:56 UTC
+923,COC1=C(O)C=C(C=C1O)C(O)=O,Phenolic acids,Hydroxybenzoic acids,4-O-Methylgallic acid,184.146,C8H8O5,"",2010-11-10 00:00:00 UTC,2015-04-14 03:50:56 UTC
+924,COC1=CC(=CC(O)=C1OC)C(O)=O,Phenolic acids,Hydroxybenzoic acids,"3,4-O-Dimethylgallic acid",198.173,C9H10O5,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:42 UTC
+925,OC1OC2COC(=O)C3=CC(O)=C(O)C(O)=C3C3=C(O)C(O)=C4OC(=O)C5=C6C(OC(=O)C3=C46)=C(O)C(O)=C5C3=C(O)C(O)=C(O)C=C3C(=O)OC2C(O)C1O,Phenolic acids,Hydroxybenzoic acids,Punicalin,782.525,C34H22O22,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:42 UTC
+926,OC(=O)CNC(=O)C1=CC=C(O)C=C1,Phenolic acids,Hydroxybenzoic acids,4-Hydroxyhippuric acid,195.172,C9H9NO4,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:42 UTC
+927,OC(=O)CNC(=O)C1=CC(O)=CC=C1,Phenolic acids,Hydroxybenzoic acids,3-Hydroxyhippuric acid,195.172,C9H9NO4,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:42 UTC
+928,C[Si](C)(C)OC(=O)CN(C(=O)C1=CC=CC=C1O[Si](C)(C)C)[Si](C)(C)C,Phenolic acids,Hydroxybenzoic acids,2-Hydroxyhippuric acid,411.715,C18H33NO4Si3,"",2010-11-10 00:00:00 UTC,2015-04-14 03:50:56 UTC
+929,OC(=O)CNC(=O)C1=CC=CC=C1,Phenolic acids,Hydroxybenzoic acids,Hippuric acid,179.173,C9H9NO3,"",2010-11-10 00:00:00 UTC,2015-04-14 03:50:56 UTC
+930,[H][C@@]12C[C@@]3(O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)[C@]1(COC(=O)C1=CC=CC=C1)[C@@]1([H])O[C@]2(O)C[C@]3(C)O1,Phenolic acids,Hydroxybenzoic acids,Paeoniflorin,480.462,C23H28O11,"",2011-01-20 14:15:05 UTC,2013-10-17 16:06:42 UTC
+931,COC1=C(O)C=CC(CC(OC(=O)\C=C\C2=CC(O)=C(O)C=C2)C(O)=O)=C1,Phenolic acids,Hydroxycinnamic acids,3-O-Methylrosmarinic acid,374.341,C19H18O8,"",2011-03-17 09:28:15 UTC,2015-05-10 23:29:02 UTC
+935,COC1=C(O)C=CC(\C=C\C(=O)NCC([O-])=O)=C1,Phenolic acids,Hydroxycinnamic acids,Feruloylglycine,250.227,C12H12NO5,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:42 UTC
+936,[H][C@@]1(OC2=C(OC)C=CC(\C=C\C(O)=O)=C2)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Phenolic acids,Hydroxycinnamic acids,Isoferulic acid 3-O-glucuronide,370.308,C16H18O10,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:42 UTC
+937,COC1=C(OS(O)(=O)=O)C=C(\C=C\C(O)=O)C=C1,Phenolic acids,Hydroxycinnamic acids,Isoferulic acid 3-sulfate,274.247,C10H10O7S,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:42 UTC
+938,COC1=C(OS(O)(=O)=O)C=CC(\C=C\C(O)=O)=C1,Phenolic acids,Hydroxycinnamic acids,Ferulic acid 4-sulfate,274.247,C10H10O7S,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+939,[H][C@@]1(OC2=C(OC)C=C(\C=C\C(O)=O)C=C2)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Phenolic acids,Hydroxycinnamic acids,Ferulic acid 4-O-glucuronide,370.308,C16H18O10,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+940,OC(=O)\C=C\C1=CC(O)=C(OS(O)(=O)=O)C=C1,Phenolic acids,Hydroxycinnamic acids,Caffeic acid 4-sulfate,260.221,C9H8O7S,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+941,OC(=O)\C=C\C1=CC(OS(O)(=O)=O)=C(O)C=C1,Phenolic acids,Hydroxycinnamic acids,Caffeic acid 3-sulfate,260.221,C9H8O7S,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+943,[H][C@@]1(OC(=O)\C=C\C2=CC=C(O)C(OC)=C2)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Phenolic acids,Hydroxycinnamic acids,Feruloyl C1-glucuronide,370.308,C16H18O10,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+944,[H][C@@]1(OC(=O)\C=C\C2=CC=C(OC)C(O)=C2)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Phenolic acids,Hydroxycinnamic acids,Isoferuloyl C1-glucuronide,370.308,C16H18O10,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+945,[H][C@@]1(OC2=C(O)C=CC(\C=C\C(O)=O)=C2)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Phenolic acids,Hydroxycinnamic acids,Caffeic acid 3-O-glucuronide,356.281,C15H16O10,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+946,[H][C@@]1(OC2=C(O)C=C(\C=C\C(O)=O)C=C2)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Phenolic acids,Hydroxycinnamic acids,Caffeic acid 4-O-glucuronide,356.281,C15H16O10,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+947,[H][C@@]1(OC(=O)\C=C\C2=CC=C(O)C(O)=C2)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Phenolic acids,Hydroxycinnamic acids,Caffeoyl C1-glucuronide,356.281,C15H16O10,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+949,COC1=C(O)C=CC(\C=C\C(=O)O[C@@H]2C[C@](C[C@@H](O)[C@H]2O)(OC(=O)\C=C\C2=CC(OC)=C(O)C=C2)C(O)=O)=C1,Phenolic acids,Hydroxycinnamic acids,"1,5-Diferuloylquinic acid",544.504,C27H28O12,"",2011-03-17 10:27:34 UTC,2016-06-02 09:14:03 UTC
+950,COC1=C(O)C=CC(\C=C\C(=O)O[C@@H]2C[C@](C[C@@H](O)[C@H]2O)(OC(=O)\C=C\C2=CC(O)=C(O)C=C2)C(O)=O)=C1,Phenolic acids,Hydroxycinnamic acids,1-Caffeoyl-5-feruloylquinic acid,530.477,C26H26O12,"",2011-03-17 10:29:44 UTC,2016-06-02 09:15:27 UTC
+951,COC1=C(O)C=CC(\C=C\C(=O)O[C@]2(C[C@@H](O)[C@@H](O)[C@@H](C2)OC(=O)\C=C\C2=CC(O)=C(O)C=C2)C(O)=O)=C1,Phenolic acids,Hydroxycinnamic acids,1-Feruloyl-5-caffeoylquinic acid,530.477,C26H26O12,"",2011-03-17 10:36:19 UTC,2016-06-02 11:31:09 UTC
+952,OC(=O)CC1=CC(O)=CC=C1,Phenolic acids,Hydroxyphenylacetic acids,3-Hydroxyphenylacetic acid,152.147,C8H8O3,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+953,OC(=O)CC1=CC=CC=C1O,Phenolic acids,Hydroxyphenylacetic acids,2-Hydroxyphenylacetic acid,152.147,C8H8O3,"",2010-11-10 00:00:00 UTC,2015-04-14 03:50:57 UTC
+955,OC(=O)CNC(=O)CC1=CC=CC=C1,Phenolic acids,Hydroxyphenylacetic acids,Phenacetylglycine,193.199,C10H11NO3,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+956,OC(=O)CC1=CC=CC=C1,Phenolic acids,Hydroxyphenylacetic acids,Phenylacetic acid,136.148,C8H8O2,"",2011-01-31 09:34:08 UTC,2013-10-17 16:06:43 UTC
+957,OC(C(O)=O)C1=CC=C(O)C=C1,Phenolic acids,Hydroxyphenylacetic acids,4-Hydroxymandelic acid,168.147,C8H8O4,"",2011-03-17 10:16:25 UTC,2013-10-17 16:06:43 UTC
+958,O[C@H](C(O)=O)C1=CC=CC=C1,Phenolic acids,Hydroxyphenylacetic acids,2-Hydroxy-2-phenylacetic acid,152.147,C8H8O3,"",2011-04-10 16:38:27 UTC,2013-10-17 16:06:43 UTC
+959,OC(CC(O)=O)C1=CC=CC(O)=C1,Phenolic acids,Hydroxyphenylpropanoic acids,3-Hydroxy-3-(3-hydroxyphenyl)propionic acid,182.173,C9H10O4,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+960,COC(CC1=CC=C(O)C(O)=C1)C(O)=O,Phenolic acids,Hydroxyphenylpropanoic acids,"3-(3,4-Dihydroxyphenyl)-2-methoxypropionic acid",212.199,C10H12O5,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+961,OC(=O)CCC1=CC=CC(O)=C1,Phenolic acids,Hydroxyphenylpropanoic acids,3-Hydroxyphenylpropionic acid,166.174,C9H10O3,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+962,COC1=C(OS(O)(=O)=O)C=CC(CCC(O)=O)=C1,Phenolic acids,Hydroxyphenylpropanoic acids,Dihydroferulic acid 4-sulfate,276.263,C10H12O7S,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+964,[H][C@@]1(OC2=C(O)C=CC(CCC(O)=O)=C2)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Phenolic acids,Hydroxyphenylpropanoic acids,Dihydrocaffeic acid 3-O-glucuronide,358.297,C15H18O10,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+965,OC(=O)CCC1=CC(OS(O)(=O)=O)=C(O)C=C1,Phenolic acids,Hydroxyphenylpropanoic acids,Dihydrocaffeic acid 3-sulfate,262.237,C9H10O7S,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+966,COC1=C(O)C=CC(CCC(O)=O)=C1,Phenolic acids,Hydroxyphenylpropanoic acids,Dihydroferulic acid,196.2,C10H12O4,"",2010-11-10 00:00:00 UTC,2015-04-14 03:50:57 UTC
+967,[H][C@@]1(OC2=C(OC)C=C(CCC(O)=O)C=C2)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Phenolic acids,Hydroxyphenylpropanoic acids,Dihydroferulic acid 4-O-glucuronide,372.324,C16H20O10,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+968,COC1=CC(CCC(O)=O)=CC(OC)=C1O,Phenolic acids,Hydroxyphenylpropanoic acids,Dihydrosinapic acid,226.226,C11H14O5,"",2010-11-10 00:00:00 UTC,2015-04-14 03:50:57 UTC
+970,COC1=CC(CCC(=O)OC(=O)CN)=CC=C1O,Phenolic acids,Hydroxyphenylpropanoic acids,Dihydroferuloylglycine,253.251,C12H15NO5,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+971,CC(O)(C(O)=O)C1=CC(O)=C(O)C=C1,Phenolic acids,Hydroxyphenylpropanoic acids,Danshensu,198.173,C9H10O5,"",2010-11-10 00:00:00 UTC,2015-04-14 03:50:57 UTC
+972,COC1=C(O)C=CC(CC(O)C(O)=O)=C1,Phenolic acids,Hydroxyphenylpropanoic acids,3-Methoxy-4-hydroxyphenyllactic acid,212.199,C10H12O5,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:44 UTC
+973,COC(=O)C(O)CC1=CC=C(O)C(O)=C1,Phenolic acids,Hydroxyphenylpropanoic acids,"3,4-Dihydroxyphenyllactic acid methyl ester",212.199,C10H12O5,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:44 UTC
+975,OC(=O)CCC1=CC=CC=C1,Phenolic acids,Hydroxyphenylpropanoic acids,3-Phenylpropionic acid,150.174,C9H10O2,"",2011-01-20 12:10:30 UTC,2013-10-17 16:06:44 UTC
+976,COC1=CC=C(CC(O)C(O)=O)C=C1O,Phenolic acids,Hydroxyphenylpropanoic acids,3-Hydroxy-4-methoxyphenyllactic acid,212.199,C10H12O5,"",2011-02-11 15:41:36 UTC,2013-10-17 16:06:44 UTC
+978,CC(C(O)=O)C1=CC=C(O)C=C1,Phenolic acids,Hydroxyphenylpropanoic acids,4-Hydroxyphenyl-2-propionic acid,166.174,C9H10O3,"",2011-06-06 00:00:00 UTC,2013-10-17 16:06:44 UTC
+979,COC1=C(O)C=CC(CC2CCC(=O)O2)=C1,Phenolic acids,Hydroxyphenylpentanoic acids,5-(3'-Methoxy-4'-hydroxyphenyl)-?-valerolactone,222.237,C12H14O4,"",2010-11-10 00:00:00 UTC,2015-04-14 03:50:57 UTC
+981,OC(CCC(O)=O)CC1=CC=C(O)C(O)=C1,Phenolic acids,Hydroxyphenylpentanoic acids,"4-Hydroxy-(3',4'-dihydroxyphenyl)valeric acid",226.226,C11H14O5,"",2010-11-10 00:00:00 UTC,2015-04-14 03:50:57 UTC
+982,OC(=O)CCCCC1=CC=C(O)C(O)=C1,Phenolic acids,Hydroxyphenylpentanoic acids,"5-(3',4'-dihydroxyphenyl)-valeric acid",210.227,C11H14O4,"",2010-11-10 00:00:00 UTC,2015-04-14 03:50:57 UTC
+983,OC1=C(O)C=C(CC2CCC(=O)O2)C=C1,Phenolic acids,Hydroxyphenylpentanoic acids,"5-(3',4',-dihydroxyphenyl)-?-valerolactone",208.211,C11H12O4,"",2010-11-10 00:00:00 UTC,2015-04-14 03:50:57 UTC
+984,OC1=CC(CC2CCC(=O)O2)=CC(O)=C1O,Phenolic acids,Hydroxyphenylpentanoic acids,"5-(3',4',5'-trihydroxyphenyl)-?-valerolactone",224.21,C11H12O5,"",2010-11-10 00:00:00 UTC,2015-04-14 03:50:57 UTC
+985,OC1=CC(CC2CCC(=O)O2)=CC(O)=C1,Phenolic acids,Hydroxyphenylpentanoic acids,"5-(3',5'-dihydroxyphenyl)-?-valerolactone",208.211,C11H12O4,"",2010-11-10 00:00:00 UTC,2015-04-14 03:50:57 UTC
+987,OC(=O)CCCCC1=CC=CC(O)=C1,Phenolic acids,Hydroxyphenylpentanoic acids,3-Hydroxyphenylvaleric acid,194.227,C11H14O3,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:44 UTC
+988,[H][C@@]1(OC2=CC(O)=CC(CC3CCC(=O)O3)=C2)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Phenolic acids,Hydroxyphenylpentanoic acids,"5-(3',5'-dihydroxyphenyl)-?-valerolactone 3-O-glucuronide",384.335,C17H20O10,"",2010-11-10 00:00:00 UTC,2015-04-14 03:50:57 UTC
+989,CCCCCCCCCCCCCCCCCC\N=C(/S)NN=CC1=CC=CC=C1[N+]([O-])=O,Stilbenes,Stilbenes,"3,4,5,4'-Tetramethoxystilbene",476.718,C26H44N4O2S,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+990,COC1=CC=C(\C=C\C2=CC(O)=C(OC)C(CO)=C2)C=C1O,Stilbenes,Stilbenes,"3'-Hydroxy-3,4,5,4'-tetramethoxystilbene",302.322,C17H18O5,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+993,COC1=CC(\C=C\C2=CC=C(O)C=C2)=CC(OC)=C1OC,Stilbenes,Stilbenes,"4'-Hydroxy-3,4,5-trimethoxystilbene",286.322,C17H18O4,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+994,COC1=CC=C(\C=C\C2=CC(OC)=C(O)C(OC)=C2)C=C1,Stilbenes,Stilbenes,"4-Hydroxy-3,5,4'-trimethoxystilbene",286.322,C17H18O4,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+995,[H][C@@]1(OC2=CC(\C=C/C3=CC=C(O)C=C3)=CC(O)=C2)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Stilbenes,Stilbenes,cis-Resveratrol 3-O-glucuronide,404.367,C20H20O9,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+996,OC1=CC=C(\C=C/C2=CC(OS(O)(=O)=O)=CC(O)=C2)C=C1,Stilbenes,Stilbenes,cis-Resveratrol 3-sulfate,308.306,C14H12O6S,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+997,[H][C@@]1(OC2=CC=C(\C=C/C3=CC(O)=CC(O)=C3)C=C2)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Stilbenes,Stilbenes,cis-Resveratrol 4'-O-glucuronide,404.367,C20H20O9,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+998,OC1=CC(\C=C/C2=CC=C(OS(O)(=O)=O)C=C2)=CC(O)=C1,Stilbenes,Stilbenes,cis-Resveratrol 4'-sulfate,308.306,C14H12O6S,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+1000,[H]C(=CC1=CC=C(O)C=C1)C1=CC(O)=CC(OS(O)(=O)=O)=C1,Stilbenes,Stilbenes,Resveratrol 3-sulfate,308.306,C14H12O6S,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+1002,OC1=CC=C(\C=C\C2=CC(OS(O)(=O)=O)=CC(OS(O)(=O)=O)=C2)C=C1,Stilbenes,Stilbenes,"trans-Resveratrol 3,5-disulfate",388.37,C14H12O9S2,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+1003,OC1=CC(OS(O)(=O)=O)=CC(\C=C\C2=CC=C(OS(O)(=O)=O)C=C2)=C1,Stilbenes,Stilbenes,"trans-Resveratrol 3,4'-disulfate",388.37,C14H12O9S2,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+1004,[H][C@@]1(OC2=CC(\C=C\C3=CC=C(O)C=C3)=CC(O)=C2)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Stilbenes,Stilbenes,trans-Resveratrol 3-O-glucuronide,404.367,C20H20O9,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+1005,OC1=CC=C(\C=C\C2=CC(O)=CC(OS(O)(=O)=O)=C2)C=C1,Stilbenes,Stilbenes,trans-Resveratrol 3-sulfate,308.306,C14H12O6S,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+1006,[H][C@@]1(OC2=CC=C(\C=C\C3=CC(O)=CC(O)=C3)C=C2)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Stilbenes,Stilbenes,trans-Resveratrol 4'-O-glucuronide,404.367,C20H20O9,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+1007,OC1=CC(\C=C\C2=CC=C(OS(O)(=O)=O)C=C2)=CC(O)=C1,Stilbenes,Stilbenes,trans-Resveratrol 4'-sulfate,308.306,C14H12O6S,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+1008,OC1=CC=C(CCC2=CC(O)=CC(O)=C2)C=C1,Stilbenes,Stilbenes,Dihydroresveratrol,230.259,C14H14O3,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+1009,OC[C@H](CC1=CC(O)=CC=C1)[C@H](CO)CC1=CC(O)=CC=C1,Lignans,Lignans,Enterodiol,302.365,C18H22O4,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+1010,OC1=CC=CC(C[C@H]2COC(=O)[C@@H]2CC2=CC(O)=CC=C2)=C1,Lignans,Lignans,Enterolactone,298.333,C18H18O4,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+1011,[H][C@]1(CO)O[C@@]([H])(OC[C@@]2([H])O[C@@]([H])(OC3=C(C=C4OCOC4=C3)[C@]3([H])CO[C@@]([H])(CO3)C3=CC=C4OCOC4=C3)[C@]([H])(O[C@]3([H])O[C@]([H])(CO)[C@@]([H])(O)[C@]([H])(O)[C@@]3([H])O)[C@@]([H])(O)[C@]2([H])O)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O,Lignans,Lignans,Sesaminol 2-O-triglucoside,830.737,C36H46O22,"",2011-07-09 00:00:00 UTC,2015-05-10 23:29:02 UTC
+1012,COC1=C(OC)C(OC)=C2C(CC(C)C(C)(O)CC3=CC(OC)=C(OC)C(OC)=C23)=C1,Lignans,Lignans,Schisandrin,432.507,C24H32O7,"",2011-07-09 00:00:00 UTC,2015-05-10 23:29:02 UTC
+1013,[H][C@@]12OC(=O)[C@](C)(O)[C@@H](C)COC3=C(C(C[C@H](C)[C@]1(C)O)=CC1=C3OCO1)C1=C(OC)C(OC)=C(OC)C=C21,Lignans,Lignans,Gomisin D,530.564,C28H34O10,"",2011-07-09 00:00:00 UTC,2015-05-10 23:29:02 UTC
+1014,COC1=C(OC)C(OC)=C2C(C[C@](C)(O)[C@@H](C)CC3=CC4=C(OCO4)C(OC)=C23)=C1,Lignans,Lignans,Schisandrol B,416.464,C23H28O7,"",2011-07-09 00:00:00 UTC,2015-05-10 23:29:02 UTC
+1015,[H][C@]1(C)CC2=C(C(OC\C(=C\C)C=O)=C(OC)C(OC)=C2)C2=C(C[C@]1(C)O)C=C(OC)C(OC)=C2OC,Lignans,Lignans,Tigloylgomicin H,500.581,C28H36O8,"",2011-07-09 00:00:00 UTC,2015-05-10 23:29:02 UTC
+1016,COC1=C(OC)C(O)=C2C(C[C@H](C)[C@H](C)CC3=CC(OC)=C(OC)C(OC)=C23)=C1,Lignans,Lignans,Schisanhenol,402.481,C23H30O6,"",2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1017,COC1=C(OC)C(OC)=C2C(=C1)[C@H](OC(=O)C1=CC=CC=C1)[C@@](C)(O)[C@@H](C)CC1=CC3=C(OCO3)C(OC)=C21,Lignans,Lignans,Schisantherin A,536.57,C30H32O9,"",2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1018,COC1=C(OC)C(OC)=C2C(C[C@@H](C)[C@@H](C)CC3=CC4=C(OCO4)C(O)=C23)=C1,Lignans,Lignans,Gomisin M2,386.438,C22H26O6,"",2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1019,COC1=C(OC)C(OC)=C2C(CC(C)C(C)CC3=CC(OC)=C(OC)C(OC)=C23)=C1,Lignans,Lignans,Deoxyschisandrin,416.507,C24H32O6,"",2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1020,COC1=C(OC)C(OC)=C2C(CC(C)C(C)CC3=CC4=C(OCO4)C(OC)=C23)=C1,Lignans,Lignans,Schisandrin B,400.465,C23H28O6,"",2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1021,COC1=C2C(C[C@H](C)[C@H](C)CC3=CC4=C(OCO4)C(OC)=C23)=CC2=C1OCO2,Lignans,Lignans,Schisandrin C,384.422,C22H24O6,"",2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1022,OCC(CC1=CC=CC(O)=C1)C(CO)CC1=C(O)C(O)=CC=C1,Lignans,Lignans,2-Hydroxyenterodiol,318.364,C18H22O5,"",2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1023,OCC(CC1=CC(O)=C(O)C=C1)C(CO)CC1=CC=CC(O)=C1,Lignans,Lignans,4-Hydroxyenterodiol,318.364,C18H22O5,"",2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1024,OCC(CC1=CC=CC(O)=C1)C(CO)CC1=CC(O)=CC=C1O,Lignans,Lignans,6-Hydroxyenterodiol,318.364,C18H22O5,"",2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1025,[H][C@]1(CC2=CC(O)=CC=C2)COC(=O)[C@]1([H])CC1=C(O)C(O)=CC=C1,Lignans,Lignans,2-Hydroxyenterolactone,314.332,C18H18O5,"",2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1026,[H][C@]1(CC2=CC(O)=CC=C2)COC(=O)[C@]1([H])CC1=CC(O)=C(O)C=C1,Lignans,Lignans,4-Hydroxyenterolactone,314.332,C18H18O5,"",2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1027,[H][C@]1(CC2=CC(O)=CC=C2)COC(=O)[C@]1([H])CC1=CC(O)=CC=C1O,Lignans,Lignans,6-Hydroxyenterolactone,314.332,C18H18O5,"",2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1028,[H][C@]1(CC2=C(O)C(O)=CC=C2)COC(=O)[C@]1([H])CC1=CC(O)=CC=C1,Lignans,Lignans,2'-Hydroxyenterolactone,314.332,C18H18O5,"",2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1029,[H][C@]1(CC2=CC(O)=C(O)C=C2)COC(=O)[C@]1([H])CC1=CC(O)=CC=C1,Lignans,Lignans,4'-Hydroxyenterolactone,314.332,C18H18O5,"",2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1030,[H][C@]1(CC2=CC(O)=CC=C2O)COC(=O)[C@]1([H])CC1=CC(O)=CC=C1,Lignans,Lignans,6'-Hydroxyenterolactone,314.332,C18H18O5,"",2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1031,[H][C@]1(CC2=CC(O)=CC=C2)COC(=O)[C@]1([H])CC1=CC(O)=CC(O)=C1,Lignans,Lignans,5-Hydroxyenterolactone,314.332,C18H18O5,"",2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1032,[H][C@]1(CC2=CC(O)=CC=C2)COC(=O)[C@]1([H])C(O)C1=CC(O)=CC=C1,Lignans,Lignans,7-Hydroxyenterolactone,314.332,C18H18O5,"",2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1035,[H][C@@]1(OC2=CC3=C(C=C2)C2=C(C=C(O[C@]4([H])O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]4([H])O)C=C2)C(=O)O3)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Other polyphenols,Hydroxycoumarins,"Urolithin A 3,8-O-diglucuronide",580.448,C25H24O16,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1037,OC1=CC2=C(C=C1)C1=C(C=C(O)C=C1)C(=O)O2,Other polyphenols,Hydroxycoumarins,Urolithin A,228.2,C13H8O4,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1038,OC1=CC2=C(C=C1)C1=C(C=CC=C1)C(=O)O2,Other polyphenols,Hydroxycoumarins,Urolithin B,212.201,C13H8O3,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1039,[H][C@@]1(OC2=CC3=C(C=C2)C2=C(C=CC=C2)C(=O)O3)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Other polyphenols,Hydroxycoumarins,Urolithin B 3-O-glucuronide,388.325,C19H16O9,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1040,OC1=CC2=C(C=C1)C1=C(C=C(O)C(O)=C1)C(=O)O2,Other polyphenols,Hydroxycoumarins,Urolithin C,244.2,C13H8O5,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1041,OC(=O)[C@@H](CC1=CC(O)=C(O)C=C1)OC(=O)\C=C\C1=C2[C@@H]([C@H](OC2=C(O)C=C1)C1=CC(O)=C(O)C=C1)C(O)=O,Other polyphenols,Other polyphenols,Lithospermic acid,538.456,C27H22O12,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1043,OC(=O)[C@@H](CC1=CC(O)=C(O)C=C1)OC(=O)\C=C\C1=C2[C@H]([C@@H](OC2=C(O)C=C1)C1=CC(O)=C(O)C=C1)C(=O)OC(CC1=CC(O)=C(O)C=C1)C(O)=O,Other polyphenols,Other polyphenols,Salvianolic acid B,718.614,C36H30O16,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1044,OC(=O)C(CC1=CC(O)=C(O)C=C1)OC(=O)\C=C\C1=C2C=C(OC2=C(O)C=C1)C1=CC(O)=C(O)C=C1,Other polyphenols,Other polyphenols,Salvianolic acid C,492.431,C26H20O10,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1045,OC(=O)CC1=C(\C=C/C(O)=O)C=CC(O)=C1O,Other polyphenols,Other polyphenols,Salvianolic acid D,238.193,C11H10O6,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1046,OC(=O)CC1=C(O)C(O)=CC=C1\C=C\C(=O)OC(CC1=CC=C(O)C(O)=C1)C(O)=O,Other polyphenols,Other polyphenols,Salvianolic acid G,418.351,C20H18O10,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1047,CC(C)OC(=O)C(O)CC1=CC(O)=C(O)C=C1,Other polyphenols,Other polyphenols,"Isopropyl 3-(3,4-dihydroxyphenyl)-2-hydroxypropanoate",240.252,C12H16O5,"",2011-03-17 10:59:09 UTC,2015-05-10 23:29:03 UTC
+1050,OCCC1=CC=C(OS(O)(=O)=O)C=C1,Other polyphenols,Tyrosols,Tyrosol 4-sulfate,218.227,C8H10O5S,"",2010-11-10 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1053,COC1=CC(CC(O)=O)=CC=C1OS(O)(=O)=O,Phenolic acids,Hydroxyphenylacetic acids,Homovanillic acid 4-sulfate,262.237,C9H10O7S,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:46 UTC
+1054,COC1=C(OS(O)(=O)=O)C=CC(C=O)=C1,Other polyphenols,Hydroxybenzaldehydes,Vanillin 4-sulfate,232.211,C8H8O6S,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:46 UTC
+1055,COC1=C(OS(O)(=O)=O)C=CC(=C1)C(O)=O,Phenolic acids,Hydroxybenzoic acids,Vanillic acid 4-sulfate,248.21,C8H8O7S,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:46 UTC
+1056,COC1=CC(O)=C(C=C1)C(C)=O,Other polyphenols,Hydroxybenzoketones,Paeonol,166.174,C9H10O3,"",2011-01-20 13:26:14 UTC,2015-05-10 23:29:03 UTC
+1057,CC(=O)C1=C(OS(O)(=O)=O)C=C(O)C=C1,Other polyphenols,Hydroxybenzoketones,"2,4-Dihydroxyacetophenone 5-sulfate",232.211,C8H8O6S,"",2011-01-20 13:37:12 UTC,2015-05-10 23:29:03 UTC
+1058,COC1=CC(O)=C(C=C1OS(O)(=O)=O)C(C)=O,Other polyphenols,Hydroxybenzoketones,2-Hydroxy-4-methoxyacetophenone 5-sulfate,262.237,C9H10O7S,"",2011-01-20 13:53:50 UTC,2015-05-10 23:29:04 UTC
+1059,CC(=O)C1=C(O)C=C(O)C=C1,Other polyphenols,Hydroxybenzoketones,Resacetophenone,152.147,C8H8O3,"",2011-01-20 13:59:55 UTC,2015-05-10 23:29:04 UTC
+1060,OC1=CC2=C(C(O)=C1)C(=O)C1=CC(O)=C(O)C=C1O2,Other polyphenols,Hydroxybenzoketones,Norathyriol,260.199,C13H8O6,"",2011-02-07 11:00:11 UTC,2013-10-17 16:06:47 UTC
+1061,CCC1=CC=C(C=C1)C(O)=O,Non-phenolic metabolites,Non-phenolic metabolites,4-Ethylbenzoic acid,150.174,C9H10O2,"",2011-01-20 13:20:03 UTC,2013-10-17 16:06:47 UTC
+1062,NCC(O)=O,Non-phenolic metabolites,Non-phenolic metabolites,Glycine,75.0666,C2H5NO2,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:47 UTC
+1063,COC1=CC(OC)=CC(OC)=C1,Non-phenolic metabolites,Non-phenolic metabolites,"1,3,5-Trimethoxybenzene",168.19,C9H12O3,"",2010-11-10 00:00:00 UTC,2015-04-14 03:50:58 UTC
+1064,COC1=C(O)C=CC(=C1)C(=O)NCC(O)=O,Non-phenolic metabolites,Non-phenolic metabolites,Vanilloylglycine,225.198,C10H11NO5,"",2010-11-10 00:00:00 UTC,2013-10-17 16:06:47 UTC
