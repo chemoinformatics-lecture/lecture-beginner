@@ -37,13 +37,20 @@ pycharmとgithubを連携する。（このとき、パソコンにgitがイン�
 pythonは、3.8で作ってください。
 
 ```
+# レッスン1, 2用
 conda update -n base -c defaults conda
 conda install jupyter
 conda install -c anaconda pandas
-conda install -c mcs07 pubchempy
 conda install -c conda-forge matplotlib
+# レッスン3用
+conda install -c mcs07 pubchempy
+# レッスン4用
 conda install -c conda-forge rdkit
+# レッスン6用
 conda install -c intel scikit-learn
+# レッスン7用
+conda install -c conda-forge scikit-plot
+conda install -c conda-forge pycaret
 ```
 
 scikit-learnはM1 mac用が別途あります。
