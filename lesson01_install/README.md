@@ -46,6 +46,8 @@ conda install -c conda-forge matplotlib
 conda install -c mcs07 pubchempy
 # レッスン4用
 conda install -c conda-forge rdkit
+# レッスン５用
+conda install -c conda-forge tqdm
 # レッスン6用
 conda install -c intel scikit-learn
 # レッスン7用
