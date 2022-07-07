@@ -6,6 +6,10 @@
 
 
 
+# 講義動画
+
+https://vimeo.com/showcase/8857656
+
 # 何をするか
 1, MOPACの実行 (GUI, CUI)と得られる値の確認
 

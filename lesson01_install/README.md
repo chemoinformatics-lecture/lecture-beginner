@@ -64,6 +64,10 @@ conda install -c conda-forge rise
 conda install nbconvert
 ```
 
+# 講義動画
+
+https://vimeo.com/showcase/8854093
+
 #注意点
 ### 作成者はwindowsとmacの両方を使用していますが、主にmacを使うことが多いです。
 サーバー（重たい計算とかを行わせたり、ホームページを公開したりする）などではCentOSやUbuntsなどのLinuxを用います。
