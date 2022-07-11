@@ -14,10 +14,14 @@
 
 # 前提条件
 pythonの基礎は、他のところで学べると思うので省略しています。
+例えば、以下のようなサイトがあります。
+- https://paiza.jp/
+- https://prog-8.com/
+- https://dotinstall.com/lessons/basic_python_v4
 
 # 何を学べるか。
 
-##前半
+# 前半
 主に他の人のライブラリーを利用しながら、試行錯誤しながらコードを書きます。
 基本的にjupyter notebook(.pynb)やgoogle colaboratoryを使っていきます。
 
@@ -46,7 +50,7 @@ pubchemを使ってデータを検索したり化学的なデータをダウン�
 ### 8. practice
 ここまでの内容を用いて演習を行ってもらいます。
 
-##後半
+# 後半
 基本的にpycharm(.py)を使っていきます。
 
 ### 9. programing
