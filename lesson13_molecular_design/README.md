@@ -18,9 +18,7 @@ https://gdb.unibe.ch/downloads/
 
 - BRICS（Breaking of Retrosynthetically Interesting Chemical Substructures）  
 https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmdc.200800178  
-https://future-chem.com/rdkit-brics/  
-
-- 
+https://future-chem.com/rdkit-brics/
 
 - Bayesian molecular design with a chemical language model 
 SMILES化学言語表記に従った既存の化合物のASCII文字列を自然言語処理することで、よく出現する化学的断片のパターンを獲得する化学言語モデルを算出する。
