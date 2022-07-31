@@ -9,6 +9,18 @@
 - ChemDataExtractor  
 https://github.com/mcs07/ChemDataExtractor
 
+オンラインデモ
+http://chemdataextractor.org/demo
+
+使い方は、これを見るとわかる。
+http://chemdataextractor.org/docs/install
+
+インストールしてからデータをダウンロードする必要がある。
+`pip install chemdataextractor`
+
+`cde data download`
+
+
 - ChemBERT  
 https://github.com/seyonechithrananda/bert-loves-chemistry
 
