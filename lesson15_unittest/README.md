@@ -6,6 +6,16 @@
 
 # 何をするか
 
+# デバッグ
+- printでデバッグ
+print文を書き込む。
+
+- pycharmの機能でデバッグ
+デバックしたいところをクリックして、 ▷マークの横の虫マークでデバッグできるようになる。
+
+- pdb(発展編)
+import pdb で色々とできます。上記の二つで物足りない人は、こちらを勉強してみてください。 
+- https://docs.python.org/ja/3/library/pdb.html
 
 # テスト
 - doctest

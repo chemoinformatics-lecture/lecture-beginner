@@ -24,6 +24,7 @@ https://planetscale.com/
 が必要になる。
 
 
+
 # やらないけど重要なもの
 
 NoSQLデータベース
