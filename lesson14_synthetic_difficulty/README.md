@@ -18,6 +18,6 @@ https://github.com/lich-uct/syba
 
 # その他
 
-- 逆合成
+- 逆合成 (https://zenn.dev/retrosynthchan/articles/a8fe673c97172e)
 - aizynthfinder
 https://github.com/MolecularAI/aizynthfinder

@@ -24,3 +24,6 @@ https://future-chem.com/rdkit-brics/
 SMILES化学言語表記に従った既存の化合物のASCII文字列を自然言語処理することで、よく出現する化学的断片のパターンを獲得する化学言語モデルを算出する。
 分子設計の手法に使える。  
 https://link.springer.com/article/10.1007/s10822-016-0008-z
+
+分子設計
+https://github.com/MolecularAI/Reinvent
