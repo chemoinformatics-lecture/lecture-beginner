@@ -1,5 +1,5 @@
 ##############################################################################
-# 次の２つのリストの中に入っている最も分子量が小さいsmilesとその分子量を返す関数を作成せよ。
+# 次の２つのリストの中に入っている最も分子量が小さいsmilesとその分子量をprintする関数を作成せよ。
 smiles_list1 = ["CC(=O)C", "C1=CC=C(C=C1)O", "CC1=CC=CC=C1"]
 smiles_list2 = [
     "C[C@@]12CCC[C@](C)(C1CC[C@@]13CC(=C)[C@@](C1)(CCC23)OC1OC(CO)C(OC2OC(CO)C(O)C(O)C2O)C(O)C1OC1OC(CO)C(O)C(O)C1O)C(=O)OC1OC(CO)C(O)C(O)C1O",
