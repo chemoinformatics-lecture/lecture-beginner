@@ -1,15 +1,25 @@
-import sys
-import pandas as pd
+from rdkit.Chem import PandasTools
+from rdkit.Chem import Descriptors
+
 from setting import CONNECTION
 
-sys.stderr.write("*** 開始 ***\n")
+class SdfaddSQL():
+    def __init__(self, sdffile):
+        self.sdf = sdffile
+        self.df = PandasTools.LoadSDF(self.sdf)
 
-# データの読み込み
-df = pd.read_csv('data/output.csv')
-# SQLへの書き込み
-df.to_sql('test',CONNECTION,if_exists='append',index=None)
-# SQLの接続をクローズ
-CONNECTION.close()
+    def add_info(self):
+        self.df["TPSA"] = self.df["ROMol"].map(Descriptors.TPSA)
+        self.df["MolLogP"] = self.df["ROMol"].map(Descriptors.MolLogP)
 
-sys.stderr.write("*** 終了 ***\n")
-# ------------------------------------------------------------------
+    def del_mol(self):
+        self.df = self.df.drop("ROMol", axis=1)
+
+    def add_sql(self):
+        self.df.to_sql('test', CONNECTION, if_exists='append', index=None)
+
+if __name__ == '__main__':
+    logdatasetdf = SdfaddSQL("data/logSdataset1290_2d.sdf")
+    logdatasetdf.add_info()
+    logdatasetdf.del_mol()
+    logdatasetdf.add_sql()

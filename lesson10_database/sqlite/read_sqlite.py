@@ -5,11 +5,12 @@ from setting import CONNECTION
 # ------------------------------------------------------------------
 sys.stderr.write("*** 開始 ***\n")
 
-df=pd.read_sql_query('SELECT * FROM test WHERE ID = CNN CONNECTION', CONNECTION)
+df = pd.read_sql_query('SELECT * FROM test', con = CONNECTION)
 
-print(df.head())
+print(df)
 #
 CONNECTION.close()
 
 sys.stderr.write("*** 終了 ***\n")
 # ------------------------------------------------------------------
+

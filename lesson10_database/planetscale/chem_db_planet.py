@@ -2,10 +2,6 @@ from sqlalchemy import Column, String
 from setting import Base, ENGINE
 
 class User(Base):
-    """
-    ユーザモデル
-    """
-
     __tablename__ = "test"
     user_id = Column("user_id", String(767), primary_key=True)
     data = Column("data", String(767))
