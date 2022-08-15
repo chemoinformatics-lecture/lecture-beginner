@@ -14,7 +14,6 @@ https://vimeo.com/showcase/8854107
 主にpandasの処理の仕方を学びます。
 
 
-
 **① Pythonのバージョン確認、モジュールのimport、データの読み込み**
 
 - pd.read_csv()
@@ -74,3 +73,6 @@ https://vimeo.com/showcase/8854107
 
 ## エラーの見方を学ぶ。
 https://docs.python.org/ja/3.8/library/exceptions.html
+
+## Jupyter 知っておくと少し便利なTIPS集
+https://qiita.com/simonritchie/items/d7dccb798f0b9c8b1ec5
