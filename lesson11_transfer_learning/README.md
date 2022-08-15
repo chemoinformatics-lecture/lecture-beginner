@@ -10,6 +10,9 @@
 # 何をするか
 
 
+# 参考プログラム
+
+https://github.com/poclab-web/fine-tuning-horac
 
 # その他の方法
 
