@@ -64,6 +64,11 @@ PlanetScaleというサーバレスDBが凄く勢いのあるサービスらし�
 
 https://qiita.com/tak001/items/cfbaa9dcb542929ff235
 
+# 既存のデータベース
+Quantum Chemistry (QC) Archive
+
+https://qcarchive.molssi.org/
+
 # 参考記事
 - [PlanetcaleをSQLAlchemyを使ってPandasで読み書きする](https://zenn.dev/sotono/articles/917a165ff6b17e)
 

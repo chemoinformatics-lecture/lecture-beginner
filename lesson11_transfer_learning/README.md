@@ -11,6 +11,9 @@
 # 何をするか
 
 
+DPPH消去の予測
+https://www.nature.com/articles/s41598-022-11925-y
+
 # 参考プログラム
 
 https://github.com/poclab-web/fine-tuning-horac
