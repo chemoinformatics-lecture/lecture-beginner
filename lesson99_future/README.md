@@ -40,3 +40,5 @@ HTSにより集められた種々の核内受容体やストレス応答パス�
 
 5. アプリやサーバー関係の勉強
 
+# 他の講義に関して
+https://github.com/chemoinformatics-lecture/lecture

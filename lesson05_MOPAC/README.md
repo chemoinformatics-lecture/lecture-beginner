@@ -3,7 +3,6 @@ MOPAC (Molecular Orbital PACkage) は、MINDO、MNDO、AM1、PM3、PM5、Sparkle
 
 
 # どのようにするか
-
 [mopac2016](http://openmopac.net/MOPAC2016.html)を用いてHOMOやLUMOなどを計算して、その値を取得する。
 2021年8月17日にMOPAC2016の代理店での販売を終了し、Stewartの公式HPから実行バイナリの無料配布（オープンアクセス）が開始されている。
 
