@@ -59,6 +59,8 @@ https://vimeo.com/showcase/9747007
 # 参考記事など
 https://snowtree-injune.com/2019/02/11/python-class-necessity/
 
+Pythonスクリプトの書き方（４パターン）
+https://gammasoft.jp/python/python-script-pattern/
 
 # pythonの型と宣言方法
 型を指定しておいた方がバグが少なく、チェックも簡単になる。
