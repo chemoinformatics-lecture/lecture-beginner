@@ -1,5 +1,5 @@
 # なぜ
-
+先人たちの知恵を借りて、名前から簡単な化学的な情報へと変換する
 
 # どのように
 これまでに非常に多くの化合物が単離または合成されており、その化学的性質に関する膨大な知見が蓄積されている。
@@ -8,7 +8,6 @@
 データベースの中には、pythonで処理することができるものも用意されており大量のデータも処理しやすい。
 
 # 講義動画
-
 https://vimeo.com/showcase/8854108
 
 # 何をするか
@@ -19,6 +18,23 @@ pubchem及びpubchempyを使って化合物の検索ダウンロードを学ぶ�
 
 ## pubchempy
 PubChemデータベースにpythonからアクセスするためのライブラリがPubChemPyです．上述の3つのデータベースにアクセスする方法と，取得したエントリーから物性などの様々な性質を取り出す方法が実装されてい
+
+## コード
+
+- ライブラリーの呼び出し (pcpと略すことが多い)
+
+`import pubchempy as pcp`
+
+- 化合物の検索
+
+`compounds = pcp.get_compounds('化合物の名前', 'name')`
+
+- 1つの化合物の名前で複数のデータを確認する。
+```
+compound = "alanine"
+properties = ['iupacname', 'molecularformula', 'molecularweight', 'canonicalsmiles']
+pcp.get_properties(properties, compound, 'name', as_dataframe=True)
+```
 
 # 他の方法
 - ChemSpider <br>

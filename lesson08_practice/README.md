@@ -6,11 +6,24 @@
 
 # 何をするか
 1. install
-2. jupyter
-3. pubchempy
-4. RDKit
-5. MOPAC
-6. scikit-learn
-7. automl
-を復習しながら、予測をしてみる。
+- 環境選択
 
+2. jupyter(pandas)
+- データの読み込みと加工
+
+3. pubchempy
+- 一般的な名前から化合物名への変換
+
+4. RDKit
+- 化合物名から化合物データへの変換
+
+5. MOPAC
+- 化合物データから分子軌道法によるデータへの変換
+
+6. scikit-learn
+- データから学習モデルを作成する
+
+7. automl
+- モデル選定の効率化
+
+を復習して、一連の流れを行ってみる。
