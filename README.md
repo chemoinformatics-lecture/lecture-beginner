@@ -30,10 +30,10 @@ pythonの基礎は、他のところで学べると思うので省略してい�
 基本的にjupyter notebook(.pynb)やgoogle colaboratoryを使っていきます。
 
 ### 1. install 
-環境構築や仮想環境などを学びます。
+google colaboratoryを用いた学習方法などを学びます。
    
 ### 2. jupyter 
-jupyter notebookの使い方やpandasやnumpyを使ってデータの整理方法を学びます。
+pandasを使ってデータの整理方法を学びます。
 
 ### 3. pubchempy
 pubchemを使ってデータを検索したり化学的なデータをダウンロードする方法を学びます。
@@ -48,7 +48,6 @@ pubchemを使ってデータを検索したり化学的なデータをダウン�
 機械学習によって、データを予測する方法を学びます。
 
 ### 7.automl
-ここまでのまとめと、紹介しなかったライブラリーについて紹介します。
 主にAutoMLであるpycaretを紹介します。
 
 ### 8. practice
