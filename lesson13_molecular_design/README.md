@@ -28,3 +28,7 @@ https://link.springer.com/article/10.1007/s10822-016-0008-z
 
 分子設計
 https://github.com/MolecularAI/Reinvent
+
+機械学習を用いた逆分子設計
+Inverse molecular design using machine learning: Generative models for matter engineering
+https://www.science.org/doi/10.1126/science.aat2663
