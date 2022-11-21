@@ -54,6 +54,9 @@ eMoleculesは世界中の様々なサプライヤーのカタログ製品をま�
 無料でダウンロードできるリストがある。
 https://downloads.emolecules.com/
 
+食品関係のデータベース
+https://foodb.ca
+
 # planetscaleを利用してオンラインで保存
 
 PlanetScaleの無料枠を使用してデータを保存する。
